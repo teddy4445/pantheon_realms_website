@@ -1,0 +1,1082 @@
+{
+  "creature.greek.tier1.base.portrait": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\ui\\icons\\final\\creature.greek.tier1.base.portrait.webp",
+    "destination": "images\\game\\creature.greek.tier1.base.portrait.webp"
+  },
+  "creature.greek.tier2.base.portrait": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\ui\\icons\\final\\creature.greek.tier2.base.portrait.webp",
+    "destination": "images\\game\\creature.greek.tier2.base.portrait.webp"
+  },
+  "creature.greek.tier3.base.portrait": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\ui\\icons\\final\\creature.greek.tier3.base.portrait.webp",
+    "destination": "images\\game\\creature.greek.tier3.base.portrait.webp"
+  },
+  "creature.greek.tier4.base.portrait": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\ui\\icons\\final\\creature.greek.tier4.base.portrait.webp",
+    "destination": "images\\game\\creature.greek.tier4.base.portrait.webp"
+  },
+  "creature.greek.tier5.base.portrait": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\ui\\icons\\final\\creature.greek.tier5.base.portrait.webp",
+    "destination": "images\\game\\creature.greek.tier5.base.portrait.webp"
+  },
+  "creature.greek.tier6.base.portrait": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\ui\\icons\\final\\creature.greek.tier6.base.portrait.webp",
+    "destination": "images\\game\\creature.greek.tier6.base.portrait.webp"
+  },
+  "creature.greek.tier7.base.portrait": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\ui\\icons\\final\\creature.greek.tier7.base.portrait.webp",
+    "destination": "images\\game\\creature.greek.tier7.base.portrait.webp"
+  },
+  "town.greek.support.civic_hall.l1": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.greek.support.civic_hall.l1.webp",
+    "destination": "images\\game\\town.greek.support.civic_hall.l1.webp"
+  },
+  "town.greek.support.civic_hall.l2": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.greek.support.civic_hall.l2.webp",
+    "destination": "images\\game\\town.greek.support.civic_hall.l2.webp"
+  },
+  "town.greek.support.civic_hall.l3": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.greek.support.civic_hall.l3.webp",
+    "destination": "images\\game\\town.greek.support.civic_hall.l3.webp"
+  },
+  "town.greek.support.civic_hall.l4": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.greek.support.civic_hall.l4.webp",
+    "destination": "images\\game\\town.greek.support.civic_hall.l4.webp"
+  },
+  "town.greek.support.pantheon_temple.l1": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.greek.support.pantheon_temple.l1.webp",
+    "destination": "images\\game\\town.greek.support.pantheon_temple.l1.webp"
+  },
+  "town.greek.support.pantheon_temple.l2": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.greek.support.pantheon_temple.l2.webp",
+    "destination": "images\\game\\town.greek.support.pantheon_temple.l2.webp"
+  },
+  "town.greek.support.mage_guild.l1": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.greek.support.mage_guild.l1.webp",
+    "destination": "images\\game\\town.greek.support.mage_guild.l1.webp"
+  },
+  "town.greek.support.mage_guild.l2": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.greek.support.mage_guild.l2.webp",
+    "destination": "images\\game\\town.greek.support.mage_guild.l2.webp"
+  },
+  "town.greek.support.mage_guild.l3": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.greek.support.mage_guild.l3.webp",
+    "destination": "images\\game\\town.greek.support.mage_guild.l3.webp"
+  },
+  "town.greek.support.watchtower.l1": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.greek.support.watchtower.l1.webp",
+    "destination": "images\\game\\town.greek.support.watchtower.l1.webp"
+  },
+  "town.greek.support.artifact_merchant.l1": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.greek.support.artifact_merchant.l1.webp",
+    "destination": "images\\game\\town.greek.support.artifact_merchant.l1.webp"
+  },
+  "town.greek.support.tavern.l1": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.greek.support.tavern.l1.webp",
+    "destination": "images\\game\\town.greek.support.tavern.l1.webp"
+  },
+  "town.greek.support.marketplace.l1": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.greek.support.marketplace.l1.webp",
+    "destination": "images\\game\\town.greek.support.marketplace.l1.webp"
+  },
+  "town.greek.support.training_academy.l1": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.greek.support.training_academy.l1.webp",
+    "destination": "images\\game\\town.greek.support.training_academy.l1.webp"
+  },
+  "town.greek.support.workshop.l1": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.greek.support.workshop.l1.webp",
+    "destination": "images\\game\\town.greek.support.workshop.l1.webp"
+  },
+  "town.greek.support.resource_depot.l1": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.greek.support.resource_depot.l1.webp",
+    "destination": "images\\game\\town.greek.support.resource_depot.l1.webp"
+  },
+  "town.greek.support.fortifications.l1": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.greek.support.fortifications.l1.webp",
+    "destination": "images\\game\\town.greek.support.fortifications.l1.webp"
+  },
+  "town.greek.support.fortifications.l2": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.greek.support.fortifications.l2.webp",
+    "destination": "images\\game\\town.greek.support.fortifications.l2.webp"
+  },
+  "town.greek.support.fortifications.l3": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.greek.support.fortifications.l3.webp",
+    "destination": "images\\game\\town.greek.support.fortifications.l3.webp"
+  },
+  "town.greek.dwelling.tier1.base": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.greek.dwelling.tier1.base.webp",
+    "destination": "images\\game\\town.greek.dwelling.tier1.base.webp"
+  },
+  "town.greek.dwelling.tier1.upgraded": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.greek.dwelling.tier1.upgraded.webp",
+    "destination": "images\\game\\town.greek.dwelling.tier1.upgraded.webp"
+  },
+  "town.greek.dwelling.tier2.base": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.greek.dwelling.tier2.base.webp",
+    "destination": "images\\game\\town.greek.dwelling.tier2.base.webp"
+  },
+  "town.greek.dwelling.tier2.upgraded": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.greek.dwelling.tier2.upgraded.webp",
+    "destination": "images\\game\\town.greek.dwelling.tier2.upgraded.webp"
+  },
+  "town.greek.dwelling.tier3.base": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.greek.dwelling.tier3.base.webp",
+    "destination": "images\\game\\town.greek.dwelling.tier3.base.webp"
+  },
+  "town.greek.dwelling.tier3.upgraded": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.greek.dwelling.tier3.upgraded.webp",
+    "destination": "images\\game\\town.greek.dwelling.tier3.upgraded.webp"
+  },
+  "town.greek.dwelling.tier4.base": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.greek.dwelling.tier4.base.webp",
+    "destination": "images\\game\\town.greek.dwelling.tier4.base.webp"
+  },
+  "town.greek.dwelling.tier4.upgraded": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.greek.dwelling.tier4.upgraded.webp",
+    "destination": "images\\game\\town.greek.dwelling.tier4.upgraded.webp"
+  },
+  "town.greek.dwelling.tier5.base": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.greek.dwelling.tier5.base.webp",
+    "destination": "images\\game\\town.greek.dwelling.tier5.base.webp"
+  },
+  "town.greek.dwelling.tier5.upgraded": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.greek.dwelling.tier5.upgraded.webp",
+    "destination": "images\\game\\town.greek.dwelling.tier5.upgraded.webp"
+  },
+  "town.greek.dwelling.tier6.base": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.greek.dwelling.tier6.base.webp",
+    "destination": "images\\game\\town.greek.dwelling.tier6.base.webp"
+  },
+  "town.greek.dwelling.tier6.upgraded": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.greek.dwelling.tier6.upgraded.webp",
+    "destination": "images\\game\\town.greek.dwelling.tier6.upgraded.webp"
+  },
+  "town.greek.dwelling.tier7.base": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.greek.dwelling.tier7.base.webp",
+    "destination": "images\\game\\town.greek.dwelling.tier7.base.webp"
+  },
+  "town.greek.dwelling.tier7.upgraded": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.greek.dwelling.tier7.upgraded.webp",
+    "destination": "images\\game\\town.greek.dwelling.tier7.upgraded.webp"
+  },
+  "god.greek.zeus.portrait": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\ui\\icons\\final\\god.greek.zeus.portrait.webp",
+    "destination": "images\\game\\god.greek.zeus.portrait.webp"
+  },
+  "town.greek.background.l1": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.greek.background.l1.webp",
+    "destination": "images\\game\\town.greek.background.l1.webp"
+  },
+  "town.greek.background.l2": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.greek.background.l2.webp",
+    "destination": "images\\game\\town.greek.background.l2.webp"
+  },
+  "town.greek.background.l3": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.greek.background.l3.webp",
+    "destination": "images\\game\\town.greek.background.l3.webp"
+  },
+  "town.greek.background.l4": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.greek.background.l4.webp",
+    "destination": "images\\game\\town.greek.background.l4.webp"
+  },
+  "creature.norse.tier1.base.portrait": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\ui\\icons\\final\\creature.norse.tier1.base.portrait.webp",
+    "destination": "images\\game\\creature.norse.tier1.base.portrait.webp"
+  },
+  "creature.norse.tier2.base.portrait": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\ui\\icons\\final\\creature.norse.tier2.base.portrait.webp",
+    "destination": "images\\game\\creature.norse.tier2.base.portrait.webp"
+  },
+  "creature.norse.tier3.base.portrait": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\ui\\icons\\final\\creature.norse.tier3.base.portrait.webp",
+    "destination": "images\\game\\creature.norse.tier3.base.portrait.webp"
+  },
+  "creature.norse.tier4.base.portrait": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\ui\\icons\\final\\creature.norse.tier4.base.portrait.webp",
+    "destination": "images\\game\\creature.norse.tier4.base.portrait.webp"
+  },
+  "creature.norse.tier5.base.portrait": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\ui\\icons\\final\\creature.norse.tier5.base.portrait.webp",
+    "destination": "images\\game\\creature.norse.tier5.base.portrait.webp"
+  },
+  "creature.norse.tier6.base.portrait": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\ui\\icons\\final\\creature.norse.tier6.base.portrait.webp",
+    "destination": "images\\game\\creature.norse.tier6.base.portrait.webp"
+  },
+  "creature.norse.tier7.base.portrait": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\ui\\icons\\final\\creature.norse.tier7.base.portrait.webp",
+    "destination": "images\\game\\creature.norse.tier7.base.portrait.webp"
+  },
+  "town.norse.support.civic_hall.l1": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.norse.support.civic_hall.l1.webp",
+    "destination": "images\\game\\town.norse.support.civic_hall.l1.webp"
+  },
+  "town.norse.support.civic_hall.l2": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.norse.support.civic_hall.l2.webp",
+    "destination": "images\\game\\town.norse.support.civic_hall.l2.webp"
+  },
+  "town.norse.support.civic_hall.l3": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.norse.support.civic_hall.l3.webp",
+    "destination": "images\\game\\town.norse.support.civic_hall.l3.webp"
+  },
+  "town.norse.support.civic_hall.l4": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.norse.support.civic_hall.l4.webp",
+    "destination": "images\\game\\town.norse.support.civic_hall.l4.webp"
+  },
+  "town.norse.support.pantheon_temple.l1": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.norse.support.pantheon_temple.l1.webp",
+    "destination": "images\\game\\town.norse.support.pantheon_temple.l1.webp"
+  },
+  "town.norse.support.pantheon_temple.l2": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.norse.support.pantheon_temple.l2.webp",
+    "destination": "images\\game\\town.norse.support.pantheon_temple.l2.webp"
+  },
+  "town.norse.support.mage_guild.l1": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.norse.support.mage_guild.l1.webp",
+    "destination": "images\\game\\town.norse.support.mage_guild.l1.webp"
+  },
+  "town.norse.support.mage_guild.l2": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.norse.support.mage_guild.l2.webp",
+    "destination": "images\\game\\town.norse.support.mage_guild.l2.webp"
+  },
+  "town.norse.support.mage_guild.l3": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.norse.support.mage_guild.l3.webp",
+    "destination": "images\\game\\town.norse.support.mage_guild.l3.webp"
+  },
+  "town.norse.support.watchtower.l1": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.norse.support.watchtower.l1.webp",
+    "destination": "images\\game\\town.norse.support.watchtower.l1.webp"
+  },
+  "town.norse.support.artifact_merchant.l1": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.norse.support.artifact_merchant.l1.webp",
+    "destination": "images\\game\\town.norse.support.artifact_merchant.l1.webp"
+  },
+  "town.norse.support.tavern.l1": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.norse.support.tavern.l1.webp",
+    "destination": "images\\game\\town.norse.support.tavern.l1.webp"
+  },
+  "town.norse.support.marketplace.l1": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.norse.support.marketplace.l1.webp",
+    "destination": "images\\game\\town.norse.support.marketplace.l1.webp"
+  },
+  "town.norse.support.training_academy.l1": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.norse.support.training_academy.l1.webp",
+    "destination": "images\\game\\town.norse.support.training_academy.l1.webp"
+  },
+  "town.norse.support.workshop.l1": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.norse.support.workshop.l1.webp",
+    "destination": "images\\game\\town.norse.support.workshop.l1.webp"
+  },
+  "town.norse.support.resource_depot.l1": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.norse.support.resource_depot.l1.webp",
+    "destination": "images\\game\\town.norse.support.resource_depot.l1.webp"
+  },
+  "town.norse.support.fortifications.l1": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.norse.support.fortifications.l1.webp",
+    "destination": "images\\game\\town.norse.support.fortifications.l1.webp"
+  },
+  "town.norse.support.fortifications.l2": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.norse.support.fortifications.l2.webp",
+    "destination": "images\\game\\town.norse.support.fortifications.l2.webp"
+  },
+  "town.norse.support.fortifications.l3": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.norse.support.fortifications.l3.webp",
+    "destination": "images\\game\\town.norse.support.fortifications.l3.webp"
+  },
+  "town.norse.dwelling.tier1.base": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.norse.dwelling.tier1.base.webp",
+    "destination": "images\\game\\town.norse.dwelling.tier1.base.webp"
+  },
+  "town.norse.dwelling.tier1.upgraded": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.norse.dwelling.tier1.upgraded.webp",
+    "destination": "images\\game\\town.norse.dwelling.tier1.upgraded.webp"
+  },
+  "town.norse.dwelling.tier2.base": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.norse.dwelling.tier2.base.webp",
+    "destination": "images\\game\\town.norse.dwelling.tier2.base.webp"
+  },
+  "town.norse.dwelling.tier2.upgraded": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.norse.dwelling.tier2.upgraded.webp",
+    "destination": "images\\game\\town.norse.dwelling.tier2.upgraded.webp"
+  },
+  "town.norse.dwelling.tier3.base": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.norse.dwelling.tier3.base.webp",
+    "destination": "images\\game\\town.norse.dwelling.tier3.base.webp"
+  },
+  "town.norse.dwelling.tier3.upgraded": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.norse.dwelling.tier3.upgraded.webp",
+    "destination": "images\\game\\town.norse.dwelling.tier3.upgraded.webp"
+  },
+  "town.norse.dwelling.tier4.base": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.norse.dwelling.tier4.base.webp",
+    "destination": "images\\game\\town.norse.dwelling.tier4.base.webp"
+  },
+  "town.norse.dwelling.tier4.upgraded": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.norse.dwelling.tier4.upgraded.webp",
+    "destination": "images\\game\\town.norse.dwelling.tier4.upgraded.webp"
+  },
+  "town.norse.dwelling.tier5.base": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.norse.dwelling.tier5.base.webp",
+    "destination": "images\\game\\town.norse.dwelling.tier5.base.webp"
+  },
+  "town.norse.dwelling.tier5.upgraded": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.norse.dwelling.tier5.upgraded.webp",
+    "destination": "images\\game\\town.norse.dwelling.tier5.upgraded.webp"
+  },
+  "town.norse.dwelling.tier6.base": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.norse.dwelling.tier6.base.webp",
+    "destination": "images\\game\\town.norse.dwelling.tier6.base.webp"
+  },
+  "town.norse.dwelling.tier6.upgraded": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.norse.dwelling.tier6.upgraded.webp",
+    "destination": "images\\game\\town.norse.dwelling.tier6.upgraded.webp"
+  },
+  "town.norse.dwelling.tier7.base": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.norse.dwelling.tier7.base.webp",
+    "destination": "images\\game\\town.norse.dwelling.tier7.base.webp"
+  },
+  "town.norse.dwelling.tier7.upgraded": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.norse.dwelling.tier7.upgraded.webp",
+    "destination": "images\\game\\town.norse.dwelling.tier7.upgraded.webp"
+  },
+  "god.norse.odin.portrait": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\ui\\icons\\final\\god.norse.odin.portrait.webp",
+    "destination": "images\\game\\god.norse.odin.portrait.webp"
+  },
+  "town.norse.background.l1": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.norse.background.l1.webp",
+    "destination": "images\\game\\town.norse.background.l1.webp"
+  },
+  "town.norse.background.l2": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.norse.background.l2.webp",
+    "destination": "images\\game\\town.norse.background.l2.webp"
+  },
+  "town.norse.background.l3": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.norse.background.l3.webp",
+    "destination": "images\\game\\town.norse.background.l3.webp"
+  },
+  "town.norse.background.l4": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.norse.background.l4.webp",
+    "destination": "images\\game\\town.norse.background.l4.webp"
+  },
+  "creature.egyptian.tier1.base.portrait": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\ui\\icons\\final\\creature.egyptian.tier1.base.portrait.webp",
+    "destination": "images\\game\\creature.egyptian.tier1.base.portrait.webp"
+  },
+  "creature.egyptian.tier2.base.portrait": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\ui\\icons\\final\\creature.egyptian.tier2.base.portrait.webp",
+    "destination": "images\\game\\creature.egyptian.tier2.base.portrait.webp"
+  },
+  "creature.egyptian.tier3.base.portrait": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\ui\\icons\\final\\creature.egyptian.tier3.base.portrait.webp",
+    "destination": "images\\game\\creature.egyptian.tier3.base.portrait.webp"
+  },
+  "creature.egyptian.tier4.base.portrait": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\ui\\icons\\final\\creature.egyptian.tier4.base.portrait.webp",
+    "destination": "images\\game\\creature.egyptian.tier4.base.portrait.webp"
+  },
+  "creature.egyptian.tier5.base.portrait": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\ui\\icons\\final\\creature.egyptian.tier5.base.portrait.webp",
+    "destination": "images\\game\\creature.egyptian.tier5.base.portrait.webp"
+  },
+  "creature.egyptian.tier6.base.portrait": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\ui\\icons\\final\\creature.egyptian.tier6.base.portrait.webp",
+    "destination": "images\\game\\creature.egyptian.tier6.base.portrait.webp"
+  },
+  "creature.egyptian.tier7.base.portrait": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\ui\\icons\\final\\creature.egyptian.tier7.base.portrait.webp",
+    "destination": "images\\game\\creature.egyptian.tier7.base.portrait.webp"
+  },
+  "town.egyptian.support.civic_hall.l1": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.egyptian.support.civic_hall.l1.webp",
+    "destination": "images\\game\\town.egyptian.support.civic_hall.l1.webp"
+  },
+  "town.egyptian.support.civic_hall.l2": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.egyptian.support.civic_hall.l2.webp",
+    "destination": "images\\game\\town.egyptian.support.civic_hall.l2.webp"
+  },
+  "town.egyptian.support.civic_hall.l3": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.egyptian.support.civic_hall.l3.webp",
+    "destination": "images\\game\\town.egyptian.support.civic_hall.l3.webp"
+  },
+  "town.egyptian.support.civic_hall.l4": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.egyptian.support.civic_hall.l4.webp",
+    "destination": "images\\game\\town.egyptian.support.civic_hall.l4.webp"
+  },
+  "town.egyptian.support.pantheon_temple.l1": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.egyptian.support.pantheon_temple.l1.webp",
+    "destination": "images\\game\\town.egyptian.support.pantheon_temple.l1.webp"
+  },
+  "town.egyptian.support.pantheon_temple.l2": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.egyptian.support.pantheon_temple.l2.webp",
+    "destination": "images\\game\\town.egyptian.support.pantheon_temple.l2.webp"
+  },
+  "town.egyptian.support.mage_guild.l1": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.egyptian.support.mage_guild.l1.webp",
+    "destination": "images\\game\\town.egyptian.support.mage_guild.l1.webp"
+  },
+  "town.egyptian.support.mage_guild.l2": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.egyptian.support.mage_guild.l2.webp",
+    "destination": "images\\game\\town.egyptian.support.mage_guild.l2.webp"
+  },
+  "town.egyptian.support.mage_guild.l3": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.egyptian.support.mage_guild.l3.webp",
+    "destination": "images\\game\\town.egyptian.support.mage_guild.l3.webp"
+  },
+  "town.egyptian.support.watchtower.l1": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.egyptian.support.watchtower.l1.webp",
+    "destination": "images\\game\\town.egyptian.support.watchtower.l1.webp"
+  },
+  "town.egyptian.support.artifact_merchant.l1": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.egyptian.support.artifact_merchant.l1.webp",
+    "destination": "images\\game\\town.egyptian.support.artifact_merchant.l1.webp"
+  },
+  "town.egyptian.support.tavern.l1": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.egyptian.support.tavern.l1.webp",
+    "destination": "images\\game\\town.egyptian.support.tavern.l1.webp"
+  },
+  "town.egyptian.support.marketplace.l1": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.egyptian.support.marketplace.l1.webp",
+    "destination": "images\\game\\town.egyptian.support.marketplace.l1.webp"
+  },
+  "town.egyptian.support.training_academy.l1": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.egyptian.support.training_academy.l1.webp",
+    "destination": "images\\game\\town.egyptian.support.training_academy.l1.webp"
+  },
+  "town.egyptian.support.workshop.l1": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.egyptian.support.workshop.l1.webp",
+    "destination": "images\\game\\town.egyptian.support.workshop.l1.webp"
+  },
+  "town.egyptian.support.resource_depot.l1": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.egyptian.support.resource_depot.l1.webp",
+    "destination": "images\\game\\town.egyptian.support.resource_depot.l1.webp"
+  },
+  "town.egyptian.support.fortifications.l1": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.egyptian.support.fortifications.l1.webp",
+    "destination": "images\\game\\town.egyptian.support.fortifications.l1.webp"
+  },
+  "town.egyptian.support.fortifications.l2": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.egyptian.support.fortifications.l2.webp",
+    "destination": "images\\game\\town.egyptian.support.fortifications.l2.webp"
+  },
+  "town.egyptian.support.fortifications.l3": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.egyptian.support.fortifications.l3.webp",
+    "destination": "images\\game\\town.egyptian.support.fortifications.l3.webp"
+  },
+  "town.egyptian.dwelling.tier1.base": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.egyptian.dwelling.tier1.base.webp",
+    "destination": "images\\game\\town.egyptian.dwelling.tier1.base.webp"
+  },
+  "town.egyptian.dwelling.tier1.upgraded": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.egyptian.dwelling.tier1.upgraded.webp",
+    "destination": "images\\game\\town.egyptian.dwelling.tier1.upgraded.webp"
+  },
+  "town.egyptian.dwelling.tier2.base": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.egyptian.dwelling.tier2.base.webp",
+    "destination": "images\\game\\town.egyptian.dwelling.tier2.base.webp"
+  },
+  "town.egyptian.dwelling.tier2.upgraded": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.egyptian.dwelling.tier2.upgraded.webp",
+    "destination": "images\\game\\town.egyptian.dwelling.tier2.upgraded.webp"
+  },
+  "town.egyptian.dwelling.tier3.base": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.egyptian.dwelling.tier3.base.webp",
+    "destination": "images\\game\\town.egyptian.dwelling.tier3.base.webp"
+  },
+  "town.egyptian.dwelling.tier3.upgraded": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.egyptian.dwelling.tier3.upgraded.webp",
+    "destination": "images\\game\\town.egyptian.dwelling.tier3.upgraded.webp"
+  },
+  "town.egyptian.dwelling.tier4.base": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.egyptian.dwelling.tier4.base.webp",
+    "destination": "images\\game\\town.egyptian.dwelling.tier4.base.webp"
+  },
+  "town.egyptian.dwelling.tier4.upgraded": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.egyptian.dwelling.tier4.upgraded.webp",
+    "destination": "images\\game\\town.egyptian.dwelling.tier4.upgraded.webp"
+  },
+  "town.egyptian.dwelling.tier5.base": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.egyptian.dwelling.tier5.base.webp",
+    "destination": "images\\game\\town.egyptian.dwelling.tier5.base.webp"
+  },
+  "town.egyptian.dwelling.tier5.upgraded": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.egyptian.dwelling.tier5.upgraded.webp",
+    "destination": "images\\game\\town.egyptian.dwelling.tier5.upgraded.webp"
+  },
+  "town.egyptian.dwelling.tier6.base": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.egyptian.dwelling.tier6.base.webp",
+    "destination": "images\\game\\town.egyptian.dwelling.tier6.base.webp"
+  },
+  "town.egyptian.dwelling.tier6.upgraded": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.egyptian.dwelling.tier6.upgraded.webp",
+    "destination": "images\\game\\town.egyptian.dwelling.tier6.upgraded.webp"
+  },
+  "town.egyptian.dwelling.tier7.base": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.egyptian.dwelling.tier7.base.webp",
+    "destination": "images\\game\\town.egyptian.dwelling.tier7.base.webp"
+  },
+  "town.egyptian.dwelling.tier7.upgraded": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.egyptian.dwelling.tier7.upgraded.webp",
+    "destination": "images\\game\\town.egyptian.dwelling.tier7.upgraded.webp"
+  },
+  "god.egyptian.ra.portrait": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\ui\\icons\\final\\god.egyptian.ra.portrait.webp",
+    "destination": "images\\game\\god.egyptian.ra.portrait.webp"
+  },
+  "town.egyptian.background.l1": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.egyptian.background.l1.webp",
+    "destination": "images\\game\\town.egyptian.background.l1.webp"
+  },
+  "town.egyptian.background.l2": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.egyptian.background.l2.webp",
+    "destination": "images\\game\\town.egyptian.background.l2.webp"
+  },
+  "town.egyptian.background.l3": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.egyptian.background.l3.webp",
+    "destination": "images\\game\\town.egyptian.background.l3.webp"
+  },
+  "town.egyptian.background.l4": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.egyptian.background.l4.webp",
+    "destination": "images\\game\\town.egyptian.background.l4.webp"
+  },
+  "creature.japanese.tier1.base.portrait": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\ui\\icons\\final\\creature.japanese.tier1.base.portrait.webp",
+    "destination": "images\\game\\creature.japanese.tier1.base.portrait.webp"
+  },
+  "creature.japanese.tier2.base.portrait": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\ui\\icons\\final\\creature.japanese.tier2.base.portrait.webp",
+    "destination": "images\\game\\creature.japanese.tier2.base.portrait.webp"
+  },
+  "creature.japanese.tier3.base.portrait": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\ui\\icons\\final\\creature.japanese.tier3.base.portrait.webp",
+    "destination": "images\\game\\creature.japanese.tier3.base.portrait.webp"
+  },
+  "creature.japanese.tier4.base.portrait": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\ui\\icons\\final\\creature.japanese.tier4.base.portrait.webp",
+    "destination": "images\\game\\creature.japanese.tier4.base.portrait.webp"
+  },
+  "creature.japanese.tier5.base.portrait": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\ui\\icons\\final\\creature.japanese.tier5.base.portrait.webp",
+    "destination": "images\\game\\creature.japanese.tier5.base.portrait.webp"
+  },
+  "creature.japanese.tier6.base.portrait": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\ui\\icons\\final\\creature.japanese.tier6.base.portrait.webp",
+    "destination": "images\\game\\creature.japanese.tier6.base.portrait.webp"
+  },
+  "creature.japanese.tier7.base.portrait": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\ui\\icons\\final\\creature.japanese.tier7.base.portrait.webp",
+    "destination": "images\\game\\creature.japanese.tier7.base.portrait.webp"
+  },
+  "town.japanese.support.civic_hall.l1": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.japanese.support.civic_hall.l1.webp",
+    "destination": "images\\game\\town.japanese.support.civic_hall.l1.webp"
+  },
+  "town.japanese.support.civic_hall.l2": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.japanese.support.civic_hall.l2.webp",
+    "destination": "images\\game\\town.japanese.support.civic_hall.l2.webp"
+  },
+  "town.japanese.support.civic_hall.l3": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.japanese.support.civic_hall.l3.webp",
+    "destination": "images\\game\\town.japanese.support.civic_hall.l3.webp"
+  },
+  "town.japanese.support.civic_hall.l4": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.japanese.support.civic_hall.l4.webp",
+    "destination": "images\\game\\town.japanese.support.civic_hall.l4.webp"
+  },
+  "town.japanese.support.pantheon_temple.l1": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.japanese.support.pantheon_temple.l1.webp",
+    "destination": "images\\game\\town.japanese.support.pantheon_temple.l1.webp"
+  },
+  "town.japanese.support.pantheon_temple.l2": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.japanese.support.pantheon_temple.l2.webp",
+    "destination": "images\\game\\town.japanese.support.pantheon_temple.l2.webp"
+  },
+  "town.japanese.support.mage_guild.l1": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.japanese.support.mage_guild.l1.webp",
+    "destination": "images\\game\\town.japanese.support.mage_guild.l1.webp"
+  },
+  "town.japanese.support.mage_guild.l2": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.japanese.support.mage_guild.l2.webp",
+    "destination": "images\\game\\town.japanese.support.mage_guild.l2.webp"
+  },
+  "town.japanese.support.mage_guild.l3": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.japanese.support.mage_guild.l3.webp",
+    "destination": "images\\game\\town.japanese.support.mage_guild.l3.webp"
+  },
+  "town.japanese.support.watchtower.l1": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.japanese.support.watchtower.l1.webp",
+    "destination": "images\\game\\town.japanese.support.watchtower.l1.webp"
+  },
+  "town.japanese.support.artifact_merchant.l1": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.japanese.support.artifact_merchant.l1.webp",
+    "destination": "images\\game\\town.japanese.support.artifact_merchant.l1.webp"
+  },
+  "town.japanese.support.tavern.l1": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.japanese.support.tavern.l1.webp",
+    "destination": "images\\game\\town.japanese.support.tavern.l1.webp"
+  },
+  "town.japanese.support.marketplace.l1": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.japanese.support.marketplace.l1.webp",
+    "destination": "images\\game\\town.japanese.support.marketplace.l1.webp"
+  },
+  "town.japanese.support.training_academy.l1": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.japanese.support.training_academy.l1.webp",
+    "destination": "images\\game\\town.japanese.support.training_academy.l1.webp"
+  },
+  "town.japanese.support.workshop.l1": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.japanese.support.workshop.l1.webp",
+    "destination": "images\\game\\town.japanese.support.workshop.l1.webp"
+  },
+  "town.japanese.support.resource_depot.l1": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.japanese.support.resource_depot.l1.webp",
+    "destination": "images\\game\\town.japanese.support.resource_depot.l1.webp"
+  },
+  "town.japanese.support.fortifications.l1": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.japanese.support.fortifications.l1.webp",
+    "destination": "images\\game\\town.japanese.support.fortifications.l1.webp"
+  },
+  "town.japanese.support.fortifications.l2": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.japanese.support.fortifications.l2.webp",
+    "destination": "images\\game\\town.japanese.support.fortifications.l2.webp"
+  },
+  "town.japanese.support.fortifications.l3": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.japanese.support.fortifications.l3.webp",
+    "destination": "images\\game\\town.japanese.support.fortifications.l3.webp"
+  },
+  "town.japanese.dwelling.tier1.base": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.japanese.dwelling.tier1.base.webp",
+    "destination": "images\\game\\town.japanese.dwelling.tier1.base.webp"
+  },
+  "town.japanese.dwelling.tier1.upgraded": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.japanese.dwelling.tier1.upgraded.webp",
+    "destination": "images\\game\\town.japanese.dwelling.tier1.upgraded.webp"
+  },
+  "town.japanese.dwelling.tier2.base": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.japanese.dwelling.tier2.base.webp",
+    "destination": "images\\game\\town.japanese.dwelling.tier2.base.webp"
+  },
+  "town.japanese.dwelling.tier2.upgraded": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.japanese.dwelling.tier2.upgraded.webp",
+    "destination": "images\\game\\town.japanese.dwelling.tier2.upgraded.webp"
+  },
+  "town.japanese.dwelling.tier3.base": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.japanese.dwelling.tier3.base.webp",
+    "destination": "images\\game\\town.japanese.dwelling.tier3.base.webp"
+  },
+  "town.japanese.dwelling.tier3.upgraded": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.japanese.dwelling.tier3.upgraded.webp",
+    "destination": "images\\game\\town.japanese.dwelling.tier3.upgraded.webp"
+  },
+  "town.japanese.dwelling.tier4.base": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.japanese.dwelling.tier4.base.webp",
+    "destination": "images\\game\\town.japanese.dwelling.tier4.base.webp"
+  },
+  "town.japanese.dwelling.tier4.upgraded": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.japanese.dwelling.tier4.upgraded.webp",
+    "destination": "images\\game\\town.japanese.dwelling.tier4.upgraded.webp"
+  },
+  "town.japanese.dwelling.tier5.base": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.japanese.dwelling.tier5.base.webp",
+    "destination": "images\\game\\town.japanese.dwelling.tier5.base.webp"
+  },
+  "town.japanese.dwelling.tier5.upgraded": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.japanese.dwelling.tier5.upgraded.webp",
+    "destination": "images\\game\\town.japanese.dwelling.tier5.upgraded.webp"
+  },
+  "town.japanese.dwelling.tier6.base": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.japanese.dwelling.tier6.base.webp",
+    "destination": "images\\game\\town.japanese.dwelling.tier6.base.webp"
+  },
+  "town.japanese.dwelling.tier6.upgraded": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.japanese.dwelling.tier6.upgraded.webp",
+    "destination": "images\\game\\town.japanese.dwelling.tier6.upgraded.webp"
+  },
+  "town.japanese.dwelling.tier7.base": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.japanese.dwelling.tier7.base.webp",
+    "destination": "images\\game\\town.japanese.dwelling.tier7.base.webp"
+  },
+  "town.japanese.dwelling.tier7.upgraded": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.japanese.dwelling.tier7.upgraded.webp",
+    "destination": "images\\game\\town.japanese.dwelling.tier7.upgraded.webp"
+  },
+  "god.japanese.amaterasu.portrait": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\ui\\icons\\final\\god.japanese.amaterasu.portrait.webp",
+    "destination": "images\\game\\god.japanese.amaterasu.portrait.webp"
+  },
+  "town.japanese.background.l1": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.japanese.background.l1.webp",
+    "destination": "images\\game\\town.japanese.background.l1.webp"
+  },
+  "town.japanese.background.l2": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.japanese.background.l2.webp",
+    "destination": "images\\game\\town.japanese.background.l2.webp"
+  },
+  "town.japanese.background.l3": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.japanese.background.l3.webp",
+    "destination": "images\\game\\town.japanese.background.l3.webp"
+  },
+  "town.japanese.background.l4": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.japanese.background.l4.webp",
+    "destination": "images\\game\\town.japanese.background.l4.webp"
+  },
+  "creature.celtic.tier1.base.portrait": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\ui\\icons\\final\\creature.celtic.tier1.base.portrait.webp",
+    "destination": "images\\game\\creature.celtic.tier1.base.portrait.webp"
+  },
+  "creature.celtic.tier2.base.portrait": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\ui\\icons\\final\\creature.celtic.tier2.base.portrait.webp",
+    "destination": "images\\game\\creature.celtic.tier2.base.portrait.webp"
+  },
+  "creature.celtic.tier3.base.portrait": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\ui\\icons\\final\\creature.celtic.tier3.base.portrait.webp",
+    "destination": "images\\game\\creature.celtic.tier3.base.portrait.webp"
+  },
+  "creature.celtic.tier4.base.portrait": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\ui\\icons\\final\\creature.celtic.tier4.base.portrait.webp",
+    "destination": "images\\game\\creature.celtic.tier4.base.portrait.webp"
+  },
+  "creature.celtic.tier5.base.portrait": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\ui\\icons\\final\\creature.celtic.tier5.base.portrait.webp",
+    "destination": "images\\game\\creature.celtic.tier5.base.portrait.webp"
+  },
+  "creature.celtic.tier6.base.portrait": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\ui\\icons\\final\\creature.celtic.tier6.base.portrait.webp",
+    "destination": "images\\game\\creature.celtic.tier6.base.portrait.webp"
+  },
+  "creature.celtic.tier7.base.portrait": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\ui\\icons\\final\\creature.celtic.tier7.base.portrait.webp",
+    "destination": "images\\game\\creature.celtic.tier7.base.portrait.webp"
+  },
+  "town.celtic.support.civic_hall.l1": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.celtic.support.civic_hall.l1.webp",
+    "destination": "images\\game\\town.celtic.support.civic_hall.l1.webp"
+  },
+  "town.celtic.support.civic_hall.l2": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.celtic.support.civic_hall.l2.webp",
+    "destination": "images\\game\\town.celtic.support.civic_hall.l2.webp"
+  },
+  "town.celtic.support.civic_hall.l3": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.celtic.support.civic_hall.l3.webp",
+    "destination": "images\\game\\town.celtic.support.civic_hall.l3.webp"
+  },
+  "town.celtic.support.civic_hall.l4": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.celtic.support.civic_hall.l4.webp",
+    "destination": "images\\game\\town.celtic.support.civic_hall.l4.webp"
+  },
+  "town.celtic.support.pantheon_temple.l1": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.celtic.support.pantheon_temple.l1.webp",
+    "destination": "images\\game\\town.celtic.support.pantheon_temple.l1.webp"
+  },
+  "town.celtic.support.pantheon_temple.l2": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.celtic.support.pantheon_temple.l2.webp",
+    "destination": "images\\game\\town.celtic.support.pantheon_temple.l2.webp"
+  },
+  "town.celtic.support.mage_guild.l1": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.celtic.support.mage_guild.l1.webp",
+    "destination": "images\\game\\town.celtic.support.mage_guild.l1.webp"
+  },
+  "town.celtic.support.mage_guild.l2": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.celtic.support.mage_guild.l2.webp",
+    "destination": "images\\game\\town.celtic.support.mage_guild.l2.webp"
+  },
+  "town.celtic.support.mage_guild.l3": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.celtic.support.mage_guild.l3.webp",
+    "destination": "images\\game\\town.celtic.support.mage_guild.l3.webp"
+  },
+  "town.celtic.support.watchtower.l1": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.celtic.support.watchtower.l1.webp",
+    "destination": "images\\game\\town.celtic.support.watchtower.l1.webp"
+  },
+  "town.celtic.support.artifact_merchant.l1": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.celtic.support.artifact_merchant.l1.webp",
+    "destination": "images\\game\\town.celtic.support.artifact_merchant.l1.webp"
+  },
+  "town.celtic.support.tavern.l1": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.celtic.support.tavern.l1.webp",
+    "destination": "images\\game\\town.celtic.support.tavern.l1.webp"
+  },
+  "town.celtic.support.marketplace.l1": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.celtic.support.marketplace.l1.webp",
+    "destination": "images\\game\\town.celtic.support.marketplace.l1.webp"
+  },
+  "town.celtic.support.training_academy.l1": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.celtic.support.training_academy.l1.webp",
+    "destination": "images\\game\\town.celtic.support.training_academy.l1.webp"
+  },
+  "town.celtic.support.workshop.l1": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.celtic.support.workshop.l1.webp",
+    "destination": "images\\game\\town.celtic.support.workshop.l1.webp"
+  },
+  "town.celtic.support.resource_depot.l1": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.celtic.support.resource_depot.l1.webp",
+    "destination": "images\\game\\town.celtic.support.resource_depot.l1.webp"
+  },
+  "town.celtic.support.fortifications.l1": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.celtic.support.fortifications.l1.webp",
+    "destination": "images\\game\\town.celtic.support.fortifications.l1.webp"
+  },
+  "town.celtic.support.fortifications.l2": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.celtic.support.fortifications.l2.webp",
+    "destination": "images\\game\\town.celtic.support.fortifications.l2.webp"
+  },
+  "town.celtic.support.fortifications.l3": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.celtic.support.fortifications.l3.webp",
+    "destination": "images\\game\\town.celtic.support.fortifications.l3.webp"
+  },
+  "town.celtic.dwelling.tier1.base": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.celtic.dwelling.tier1.base.webp",
+    "destination": "images\\game\\town.celtic.dwelling.tier1.base.webp"
+  },
+  "town.celtic.dwelling.tier1.upgraded": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.celtic.dwelling.tier1.upgraded.webp",
+    "destination": "images\\game\\town.celtic.dwelling.tier1.upgraded.webp"
+  },
+  "town.celtic.dwelling.tier2.base": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.celtic.dwelling.tier2.base.webp",
+    "destination": "images\\game\\town.celtic.dwelling.tier2.base.webp"
+  },
+  "town.celtic.dwelling.tier2.upgraded": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.celtic.dwelling.tier2.upgraded.webp",
+    "destination": "images\\game\\town.celtic.dwelling.tier2.upgraded.webp"
+  },
+  "town.celtic.dwelling.tier3.base": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.celtic.dwelling.tier3.base.webp",
+    "destination": "images\\game\\town.celtic.dwelling.tier3.base.webp"
+  },
+  "town.celtic.dwelling.tier3.upgraded": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.celtic.dwelling.tier3.upgraded.webp",
+    "destination": "images\\game\\town.celtic.dwelling.tier3.upgraded.webp"
+  },
+  "town.celtic.dwelling.tier4.base": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.celtic.dwelling.tier4.base.webp",
+    "destination": "images\\game\\town.celtic.dwelling.tier4.base.webp"
+  },
+  "town.celtic.dwelling.tier4.upgraded": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.celtic.dwelling.tier4.upgraded.webp",
+    "destination": "images\\game\\town.celtic.dwelling.tier4.upgraded.webp"
+  },
+  "town.celtic.dwelling.tier5.base": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.celtic.dwelling.tier5.base.webp",
+    "destination": "images\\game\\town.celtic.dwelling.tier5.base.webp"
+  },
+  "town.celtic.dwelling.tier5.upgraded": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.celtic.dwelling.tier5.upgraded.webp",
+    "destination": "images\\game\\town.celtic.dwelling.tier5.upgraded.webp"
+  },
+  "town.celtic.dwelling.tier6.base": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.celtic.dwelling.tier6.base.webp",
+    "destination": "images\\game\\town.celtic.dwelling.tier6.base.webp"
+  },
+  "town.celtic.dwelling.tier6.upgraded": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.celtic.dwelling.tier6.upgraded.webp",
+    "destination": "images\\game\\town.celtic.dwelling.tier6.upgraded.webp"
+  },
+  "town.celtic.dwelling.tier7.base": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.celtic.dwelling.tier7.base.webp",
+    "destination": "images\\game\\town.celtic.dwelling.tier7.base.webp"
+  },
+  "town.celtic.dwelling.tier7.upgraded": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.celtic.dwelling.tier7.upgraded.webp",
+    "destination": "images\\game\\town.celtic.dwelling.tier7.upgraded.webp"
+  },
+  "god.celtic.dagda.portrait": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\ui\\icons\\final\\god.celtic.dagda.portrait.webp",
+    "destination": "images\\game\\god.celtic.dagda.portrait.webp"
+  },
+  "town.celtic.background.l1": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.celtic.background.l1.webp",
+    "destination": "images\\game\\town.celtic.background.l1.webp"
+  },
+  "town.celtic.background.l2": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.celtic.background.l2.webp",
+    "destination": "images\\game\\town.celtic.background.l2.webp"
+  },
+  "town.celtic.background.l3": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.celtic.background.l3.webp",
+    "destination": "images\\game\\town.celtic.background.l3.webp"
+  },
+  "town.celtic.background.l4": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.celtic.background.l4.webp",
+    "destination": "images\\game\\town.celtic.background.l4.webp"
+  },
+  "creature.mesoamerican.tier1.base.portrait": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\ui\\icons\\final\\creature.mesoamerican.tier1.base.portrait.webp",
+    "destination": "images\\game\\creature.mesoamerican.tier1.base.portrait.webp"
+  },
+  "creature.mesoamerican.tier2.base.portrait": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\ui\\icons\\final\\creature.mesoamerican.tier2.base.portrait.webp",
+    "destination": "images\\game\\creature.mesoamerican.tier2.base.portrait.webp"
+  },
+  "creature.mesoamerican.tier3.base.portrait": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\ui\\icons\\final\\creature.mesoamerican.tier3.base.portrait.webp",
+    "destination": "images\\game\\creature.mesoamerican.tier3.base.portrait.webp"
+  },
+  "creature.mesoamerican.tier4.base.portrait": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\ui\\icons\\final\\creature.mesoamerican.tier4.base.portrait.webp",
+    "destination": "images\\game\\creature.mesoamerican.tier4.base.portrait.webp"
+  },
+  "creature.mesoamerican.tier5.base.portrait": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\ui\\icons\\final\\creature.mesoamerican.tier5.base.portrait.webp",
+    "destination": "images\\game\\creature.mesoamerican.tier5.base.portrait.webp"
+  },
+  "creature.mesoamerican.tier6.base.portrait": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\ui\\icons\\final\\creature.mesoamerican.tier6.base.portrait.webp",
+    "destination": "images\\game\\creature.mesoamerican.tier6.base.portrait.webp"
+  },
+  "creature.mesoamerican.tier7.base.portrait": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\ui\\icons\\final\\creature.mesoamerican.tier7.base.portrait.webp",
+    "destination": "images\\game\\creature.mesoamerican.tier7.base.portrait.webp"
+  },
+  "town.mesoamerican.support.civic_hall.l1": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.mesoamerican.support.civic_hall.l1.webp",
+    "destination": "images\\game\\town.mesoamerican.support.civic_hall.l1.webp"
+  },
+  "town.mesoamerican.support.civic_hall.l2": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.mesoamerican.support.civic_hall.l2.webp",
+    "destination": "images\\game\\town.mesoamerican.support.civic_hall.l2.webp"
+  },
+  "town.mesoamerican.support.civic_hall.l3": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.mesoamerican.support.civic_hall.l3.webp",
+    "destination": "images\\game\\town.mesoamerican.support.civic_hall.l3.webp"
+  },
+  "town.mesoamerican.support.civic_hall.l4": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.mesoamerican.support.civic_hall.l4.webp",
+    "destination": "images\\game\\town.mesoamerican.support.civic_hall.l4.webp"
+  },
+  "town.mesoamerican.support.pantheon_temple.l1": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.mesoamerican.support.pantheon_temple.l1.webp",
+    "destination": "images\\game\\town.mesoamerican.support.pantheon_temple.l1.webp"
+  },
+  "town.mesoamerican.support.pantheon_temple.l2": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.mesoamerican.support.pantheon_temple.l2.webp",
+    "destination": "images\\game\\town.mesoamerican.support.pantheon_temple.l2.webp"
+  },
+  "town.mesoamerican.support.mage_guild.l1": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.mesoamerican.support.mage_guild.l1.webp",
+    "destination": "images\\game\\town.mesoamerican.support.mage_guild.l1.webp"
+  },
+  "town.mesoamerican.support.mage_guild.l2": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.mesoamerican.support.mage_guild.l2.webp",
+    "destination": "images\\game\\town.mesoamerican.support.mage_guild.l2.webp"
+  },
+  "town.mesoamerican.support.mage_guild.l3": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.mesoamerican.support.mage_guild.l3.webp",
+    "destination": "images\\game\\town.mesoamerican.support.mage_guild.l3.webp"
+  },
+  "town.mesoamerican.support.watchtower.l1": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.mesoamerican.support.watchtower.l1.webp",
+    "destination": "images\\game\\town.mesoamerican.support.watchtower.l1.webp"
+  },
+  "town.mesoamerican.support.artifact_merchant.l1": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.mesoamerican.support.artifact_merchant.l1.webp",
+    "destination": "images\\game\\town.mesoamerican.support.artifact_merchant.l1.webp"
+  },
+  "town.mesoamerican.support.tavern.l1": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.mesoamerican.support.tavern.l1.webp",
+    "destination": "images\\game\\town.mesoamerican.support.tavern.l1.webp"
+  },
+  "town.mesoamerican.support.marketplace.l1": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.mesoamerican.support.marketplace.l1.webp",
+    "destination": "images\\game\\town.mesoamerican.support.marketplace.l1.webp"
+  },
+  "town.mesoamerican.support.training_academy.l1": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.mesoamerican.support.training_academy.l1.webp",
+    "destination": "images\\game\\town.mesoamerican.support.training_academy.l1.webp"
+  },
+  "town.mesoamerican.support.workshop.l1": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.mesoamerican.support.workshop.l1.webp",
+    "destination": "images\\game\\town.mesoamerican.support.workshop.l1.webp"
+  },
+  "town.mesoamerican.support.resource_depot.l1": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.mesoamerican.support.resource_depot.l1.webp",
+    "destination": "images\\game\\town.mesoamerican.support.resource_depot.l1.webp"
+  },
+  "town.mesoamerican.support.fortifications.l1": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.mesoamerican.support.fortifications.l1.webp",
+    "destination": "images\\game\\town.mesoamerican.support.fortifications.l1.webp"
+  },
+  "town.mesoamerican.support.fortifications.l2": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.mesoamerican.support.fortifications.l2.webp",
+    "destination": "images\\game\\town.mesoamerican.support.fortifications.l2.webp"
+  },
+  "town.mesoamerican.support.fortifications.l3": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.mesoamerican.support.fortifications.l3.webp",
+    "destination": "images\\game\\town.mesoamerican.support.fortifications.l3.webp"
+  },
+  "town.mesoamerican.dwelling.tier1.base": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.mesoamerican.dwelling.tier1.base.webp",
+    "destination": "images\\game\\town.mesoamerican.dwelling.tier1.base.webp"
+  },
+  "town.mesoamerican.dwelling.tier1.upgraded": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.mesoamerican.dwelling.tier1.upgraded.webp",
+    "destination": "images\\game\\town.mesoamerican.dwelling.tier1.upgraded.webp"
+  },
+  "town.mesoamerican.dwelling.tier2.base": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.mesoamerican.dwelling.tier2.base.webp",
+    "destination": "images\\game\\town.mesoamerican.dwelling.tier2.base.webp"
+  },
+  "town.mesoamerican.dwelling.tier2.upgraded": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.mesoamerican.dwelling.tier2.upgraded.webp",
+    "destination": "images\\game\\town.mesoamerican.dwelling.tier2.upgraded.webp"
+  },
+  "town.mesoamerican.dwelling.tier3.base": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.mesoamerican.dwelling.tier3.base.webp",
+    "destination": "images\\game\\town.mesoamerican.dwelling.tier3.base.webp"
+  },
+  "town.mesoamerican.dwelling.tier3.upgraded": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.mesoamerican.dwelling.tier3.upgraded.webp",
+    "destination": "images\\game\\town.mesoamerican.dwelling.tier3.upgraded.webp"
+  },
+  "town.mesoamerican.dwelling.tier4.base": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.mesoamerican.dwelling.tier4.base.webp",
+    "destination": "images\\game\\town.mesoamerican.dwelling.tier4.base.webp"
+  },
+  "town.mesoamerican.dwelling.tier4.upgraded": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.mesoamerican.dwelling.tier4.upgraded.webp",
+    "destination": "images\\game\\town.mesoamerican.dwelling.tier4.upgraded.webp"
+  },
+  "town.mesoamerican.dwelling.tier5.base": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.mesoamerican.dwelling.tier5.base.webp",
+    "destination": "images\\game\\town.mesoamerican.dwelling.tier5.base.webp"
+  },
+  "town.mesoamerican.dwelling.tier5.upgraded": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.mesoamerican.dwelling.tier5.upgraded.webp",
+    "destination": "images\\game\\town.mesoamerican.dwelling.tier5.upgraded.webp"
+  },
+  "town.mesoamerican.dwelling.tier6.base": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.mesoamerican.dwelling.tier6.base.webp",
+    "destination": "images\\game\\town.mesoamerican.dwelling.tier6.base.webp"
+  },
+  "town.mesoamerican.dwelling.tier6.upgraded": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.mesoamerican.dwelling.tier6.upgraded.webp",
+    "destination": "images\\game\\town.mesoamerican.dwelling.tier6.upgraded.webp"
+  },
+  "town.mesoamerican.dwelling.tier7.base": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.mesoamerican.dwelling.tier7.base.webp",
+    "destination": "images\\game\\town.mesoamerican.dwelling.tier7.base.webp"
+  },
+  "town.mesoamerican.dwelling.tier7.upgraded": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.mesoamerican.dwelling.tier7.upgraded.webp",
+    "destination": "images\\game\\town.mesoamerican.dwelling.tier7.upgraded.webp"
+  },
+  "god.mesoamerican.quetzalcoatl.portrait": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\ui\\icons\\final\\god.mesoamerican.quetzalcoatl.portrait.webp",
+    "destination": "images\\game\\god.mesoamerican.quetzalcoatl.portrait.webp"
+  },
+  "town.mesoamerican.background.l1": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.mesoamerican.background.l1.webp",
+    "destination": "images\\game\\town.mesoamerican.background.l1.webp"
+  },
+  "town.mesoamerican.background.l2": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.mesoamerican.background.l2.webp",
+    "destination": "images\\game\\town.mesoamerican.background.l2.webp"
+  },
+  "town.mesoamerican.background.l3": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.mesoamerican.background.l3.webp",
+    "destination": "images\\game\\town.mesoamerican.background.l3.webp"
+  },
+  "town.mesoamerican.background.l4": {
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\art\\town\\town.mesoamerican.background.l4.webp",
+    "destination": "images\\game\\town.mesoamerican.background.l4.webp"
+  }
+}

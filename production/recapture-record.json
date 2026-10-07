@@ -1,0 +1,13 @@
+{
+  "date": "2026-10-07T15:51:57.059Z",
+  "gameRoot": "C:/Users/lazeb/Desktop/pantheon_realms",
+  "version": "0.14.0",
+  "viewport": [
+    1600,
+    1000
+  ],
+  "method": "Unaltered screenshots of current game UI; showcase saves imported via normal Load/Import; rich towns built through validated game commands.",
+  "captured": [
+    "battle"
+  ]
+}

@@ -1,0 +1,212 @@
+[
+  {
+    "id": "creature.greek.tier1.upgraded.portrait",
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\ui\\icons\\final\\creature.greek.tier1.upgraded.portrait.webp",
+    "destination": "images\\game\\creature.greek.tier1.upgraded.portrait.webp"
+  },
+  {
+    "id": "creature.greek.tier2.upgraded.portrait",
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\ui\\icons\\final\\creature.greek.tier2.upgraded.portrait.webp",
+    "destination": "images\\game\\creature.greek.tier2.upgraded.portrait.webp"
+  },
+  {
+    "id": "creature.greek.tier3.upgraded.portrait",
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\ui\\icons\\final\\creature.greek.tier3.upgraded.portrait.webp",
+    "destination": "images\\game\\creature.greek.tier3.upgraded.portrait.webp"
+  },
+  {
+    "id": "creature.greek.tier4.upgraded.portrait",
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\ui\\icons\\final\\creature.greek.tier4.upgraded.portrait.webp",
+    "destination": "images\\game\\creature.greek.tier4.upgraded.portrait.webp"
+  },
+  {
+    "id": "creature.greek.tier5.upgraded.portrait",
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\ui\\icons\\final\\creature.greek.tier5.upgraded.portrait.webp",
+    "destination": "images\\game\\creature.greek.tier5.upgraded.portrait.webp"
+  },
+  {
+    "id": "creature.greek.tier6.upgraded.portrait",
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\ui\\icons\\final\\creature.greek.tier6.upgraded.portrait.webp",
+    "destination": "images\\game\\creature.greek.tier6.upgraded.portrait.webp"
+  },
+  {
+    "id": "creature.greek.tier7.upgraded.portrait",
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\ui\\icons\\final\\creature.greek.tier7.upgraded.portrait.webp",
+    "destination": "images\\game\\creature.greek.tier7.upgraded.portrait.webp"
+  },
+  {
+    "id": "creature.norse.tier1.upgraded.portrait",
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\ui\\icons\\final\\creature.norse.tier1.upgraded.portrait.webp",
+    "destination": "images\\game\\creature.norse.tier1.upgraded.portrait.webp"
+  },
+  {
+    "id": "creature.norse.tier2.upgraded.portrait",
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\ui\\icons\\final\\creature.norse.tier2.upgraded.portrait.webp",
+    "destination": "images\\game\\creature.norse.tier2.upgraded.portrait.webp"
+  },
+  {
+    "id": "creature.norse.tier3.upgraded.portrait",
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\ui\\icons\\final\\creature.norse.tier3.upgraded.portrait.webp",
+    "destination": "images\\game\\creature.norse.tier3.upgraded.portrait.webp"
+  },
+  {
+    "id": "creature.norse.tier4.upgraded.portrait",
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\ui\\icons\\final\\creature.norse.tier4.upgraded.portrait.webp",
+    "destination": "images\\game\\creature.norse.tier4.upgraded.portrait.webp"
+  },
+  {
+    "id": "creature.norse.tier5.upgraded.portrait",
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\ui\\icons\\final\\creature.norse.tier5.upgraded.portrait.webp",
+    "destination": "images\\game\\creature.norse.tier5.upgraded.portrait.webp"
+  },
+  {
+    "id": "creature.norse.tier6.upgraded.portrait",
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\ui\\icons\\final\\creature.norse.tier6.upgraded.portrait.webp",
+    "destination": "images\\game\\creature.norse.tier6.upgraded.portrait.webp"
+  },
+  {
+    "id": "creature.norse.tier7.upgraded.portrait",
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\ui\\icons\\final\\creature.norse.tier7.upgraded.portrait.webp",
+    "destination": "images\\game\\creature.norse.tier7.upgraded.portrait.webp"
+  },
+  {
+    "id": "creature.egyptian.tier1.upgraded.portrait",
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\ui\\icons\\final\\creature.egyptian.tier1.upgraded.portrait.webp",
+    "destination": "images\\game\\creature.egyptian.tier1.upgraded.portrait.webp"
+  },
+  {
+    "id": "creature.egyptian.tier2.upgraded.portrait",
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\ui\\icons\\final\\creature.egyptian.tier2.upgraded.portrait.webp",
+    "destination": "images\\game\\creature.egyptian.tier2.upgraded.portrait.webp"
+  },
+  {
+    "id": "creature.egyptian.tier3.upgraded.portrait",
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\ui\\icons\\final\\creature.egyptian.tier3.upgraded.portrait.webp",
+    "destination": "images\\game\\creature.egyptian.tier3.upgraded.portrait.webp"
+  },
+  {
+    "id": "creature.egyptian.tier4.upgraded.portrait",
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\ui\\icons\\final\\creature.egyptian.tier4.upgraded.portrait.webp",
+    "destination": "images\\game\\creature.egyptian.tier4.upgraded.portrait.webp"
+  },
+  {
+    "id": "creature.egyptian.tier5.upgraded.portrait",
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\ui\\icons\\final\\creature.egyptian.tier5.upgraded.portrait.webp",
+    "destination": "images\\game\\creature.egyptian.tier5.upgraded.portrait.webp"
+  },
+  {
+    "id": "creature.egyptian.tier6.upgraded.portrait",
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\ui\\icons\\final\\creature.egyptian.tier6.upgraded.portrait.webp",
+    "destination": "images\\game\\creature.egyptian.tier6.upgraded.portrait.webp"
+  },
+  {
+    "id": "creature.egyptian.tier7.upgraded.portrait",
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\ui\\icons\\final\\creature.egyptian.tier7.upgraded.portrait.webp",
+    "destination": "images\\game\\creature.egyptian.tier7.upgraded.portrait.webp"
+  },
+  {
+    "id": "creature.japanese.tier1.upgraded.portrait",
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\ui\\icons\\final\\creature.japanese.tier1.upgraded.portrait.webp",
+    "destination": "images\\game\\creature.japanese.tier1.upgraded.portrait.webp"
+  },
+  {
+    "id": "creature.japanese.tier2.upgraded.portrait",
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\ui\\icons\\final\\creature.japanese.tier2.upgraded.portrait.webp",
+    "destination": "images\\game\\creature.japanese.tier2.upgraded.portrait.webp"
+  },
+  {
+    "id": "creature.japanese.tier3.upgraded.portrait",
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\ui\\icons\\final\\creature.japanese.tier3.upgraded.portrait.webp",
+    "destination": "images\\game\\creature.japanese.tier3.upgraded.portrait.webp"
+  },
+  {
+    "id": "creature.japanese.tier4.upgraded.portrait",
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\ui\\icons\\final\\creature.japanese.tier4.upgraded.portrait.webp",
+    "destination": "images\\game\\creature.japanese.tier4.upgraded.portrait.webp"
+  },
+  {
+    "id": "creature.japanese.tier5.upgraded.portrait",
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\ui\\icons\\final\\creature.japanese.tier5.upgraded.portrait.webp",
+    "destination": "images\\game\\creature.japanese.tier5.upgraded.portrait.webp"
+  },
+  {
+    "id": "creature.japanese.tier6.upgraded.portrait",
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\ui\\icons\\final\\creature.japanese.tier6.upgraded.portrait.webp",
+    "destination": "images\\game\\creature.japanese.tier6.upgraded.portrait.webp"
+  },
+  {
+    "id": "creature.japanese.tier7.upgraded.portrait",
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\ui\\icons\\final\\creature.japanese.tier7.upgraded.portrait.webp",
+    "destination": "images\\game\\creature.japanese.tier7.upgraded.portrait.webp"
+  },
+  {
+    "id": "creature.celtic.tier1.upgraded.portrait",
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\ui\\icons\\final\\creature.celtic.tier1.upgraded.portrait.webp",
+    "destination": "images\\game\\creature.celtic.tier1.upgraded.portrait.webp"
+  },
+  {
+    "id": "creature.celtic.tier2.upgraded.portrait",
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\ui\\icons\\final\\creature.celtic.tier2.upgraded.portrait.webp",
+    "destination": "images\\game\\creature.celtic.tier2.upgraded.portrait.webp"
+  },
+  {
+    "id": "creature.celtic.tier3.upgraded.portrait",
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\ui\\icons\\final\\creature.celtic.tier3.upgraded.portrait.webp",
+    "destination": "images\\game\\creature.celtic.tier3.upgraded.portrait.webp"
+  },
+  {
+    "id": "creature.celtic.tier4.upgraded.portrait",
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\ui\\icons\\final\\creature.celtic.tier4.upgraded.portrait.webp",
+    "destination": "images\\game\\creature.celtic.tier4.upgraded.portrait.webp"
+  },
+  {
+    "id": "creature.celtic.tier5.upgraded.portrait",
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\ui\\icons\\final\\creature.celtic.tier5.upgraded.portrait.webp",
+    "destination": "images\\game\\creature.celtic.tier5.upgraded.portrait.webp"
+  },
+  {
+    "id": "creature.celtic.tier6.upgraded.portrait",
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\ui\\icons\\final\\creature.celtic.tier6.upgraded.portrait.webp",
+    "destination": "images\\game\\creature.celtic.tier6.upgraded.portrait.webp"
+  },
+  {
+    "id": "creature.celtic.tier7.upgraded.portrait",
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\ui\\icons\\final\\creature.celtic.tier7.upgraded.portrait.webp",
+    "destination": "images\\game\\creature.celtic.tier7.upgraded.portrait.webp"
+  },
+  {
+    "id": "creature.mesoamerican.tier1.upgraded.portrait",
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\ui\\icons\\final\\creature.mesoamerican.tier1.upgraded.portrait.webp",
+    "destination": "images\\game\\creature.mesoamerican.tier1.upgraded.portrait.webp"
+  },
+  {
+    "id": "creature.mesoamerican.tier2.upgraded.portrait",
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\ui\\icons\\final\\creature.mesoamerican.tier2.upgraded.portrait.webp",
+    "destination": "images\\game\\creature.mesoamerican.tier2.upgraded.portrait.webp"
+  },
+  {
+    "id": "creature.mesoamerican.tier3.upgraded.portrait",
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\ui\\icons\\final\\creature.mesoamerican.tier3.upgraded.portrait.webp",
+    "destination": "images\\game\\creature.mesoamerican.tier3.upgraded.portrait.webp"
+  },
+  {
+    "id": "creature.mesoamerican.tier4.upgraded.portrait",
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\ui\\icons\\final\\creature.mesoamerican.tier4.upgraded.portrait.webp",
+    "destination": "images\\game\\creature.mesoamerican.tier4.upgraded.portrait.webp"
+  },
+  {
+    "id": "creature.mesoamerican.tier5.upgraded.portrait",
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\ui\\icons\\final\\creature.mesoamerican.tier5.upgraded.portrait.webp",
+    "destination": "images\\game\\creature.mesoamerican.tier5.upgraded.portrait.webp"
+  },
+  {
+    "id": "creature.mesoamerican.tier6.upgraded.portrait",
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\ui\\icons\\final\\creature.mesoamerican.tier6.upgraded.portrait.webp",
+    "destination": "images\\game\\creature.mesoamerican.tier6.upgraded.portrait.webp"
+  },
+  {
+    "id": "creature.mesoamerican.tier7.upgraded.portrait",
+    "source": "C:\\Users\\lazeb\\Desktop\\pantheon_realms\\assets-runtime\\ui\\icons\\final\\creature.mesoamerican.tier7.upgraded.portrait.webp",
+    "destination": "images\\game\\creature.mesoamerican.tier7.upgraded.portrait.webp"
+  }
+]

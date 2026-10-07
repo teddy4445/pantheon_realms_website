@@ -1,0 +1,20 @@
+import {chromium} from '../../landing/node_modules/playwright/index.mjs';
+import {mkdir,writeFile} from 'node:fs/promises';
+import path from 'node:path';
+const root=path.resolve(import.meta.dirname,'..'),out=path.join(root,'images/screens-current');await mkdir(out,{recursive:true});
+const browser=await chromium.launch({channel:'chrome',headless:true,args:['--use-angle=swiftshader','--enable-unsafe-swiftshader']});
+const captured=[];let page,context;
+async function settle(){for(let i=0;i<25;i++){const next=page.getByTestId('story-continue');if(await next.isVisible().catch(()=>false)){await next.click();continue;}const b=page.getByRole('button',{name:/Got it|Understood|Dismiss/i});if(await b.count()===1&&await b.isVisible()){await b.click();continue;}break;}}
+async function fresh(){await context?.close();context=await browser.newContext({viewport:{width:1600,height:1000},reducedMotion:'reduce'});page=await context.newPage();page.setDefaultTimeout(20000);page.on('pageerror',e=>console.log('GAME ERROR',e.message));await page.goto('http://127.0.0.1:5193/?e2e',{waitUntil:'networkidle'});}
+async function load(name){await fresh();await page.getByTestId('menu-load').click();const choose=page.waitForEvent('filechooser');await page.getByRole('button',{name:/Import/}).click();await(await choose).setFiles(path.join(import.meta.dirname,name+'.prsave.json'));await page.getByTestId('save-manual-1').getByText('(imported)').waitFor();await page.getByTestId('save-manual-1').click();await page.getByTestId('load-confirm').click();await page.waitForTimeout(500);if(await page.getByTestId('confirm-ok').isVisible())await page.getByTestId('confirm-ok').click();await page.waitForTimeout(2500);await settle();}
+async function snap(name){await settle();await page.waitForTimeout(1800);await page.evaluate(async()=>{await document.fonts.ready;await Promise.all([...document.images].map(i=>i.decode().catch(()=>{})));});await page.screenshot({path:path.join(out,name+'.jpg'),type:'jpeg',quality:92,animations:'disabled',timeout:60000});captured.push(name);console.log('Captured',name);}
+try{
+ await load('city-greek');
+ await page.locator('.scene-loading').waitFor({state:'hidden',timeout:120000});
+ console.log('Adventure renderer ready');
+ await page.waitForTimeout(18000);await snap('adventure');
+ await load('battle');await page.waitForFunction(()=>globalThis.__prInspect().screen==='battle');
+ await page.locator('.scene-loading').waitFor({state:'hidden',timeout:120000});
+ await page.waitForTimeout(25000);console.log('Battle inspect',JSON.stringify(await page.evaluate(()=>globalThis.__prInspect().battle)));await snap('battle');
+}catch(e){console.error(e);await page.screenshot({path:path.join(root,'production/reviews/capture-error.png')});await writeFile(path.join(root,'production/reviews/capture-error.txt'),await page.locator('body').innerText());process.exitCode=1;}
+finally{await writeFile(path.join(root,'production/recapture-record.json'),JSON.stringify({date:new Date().toISOString(),gameRoot:'C:/Users/lazeb/Desktop/pantheon_realms',version:'0.14.0',viewport:[1600,1000],method:'Unaltered screenshots of current game UI; showcase saves imported via normal Load/Import; rich towns built through validated game commands.',captured},null,2));await browser.close();}
