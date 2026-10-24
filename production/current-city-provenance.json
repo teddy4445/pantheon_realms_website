@@ -1,0 +1,890 @@
+{
+  "town.greek.background.l1": {
+    "source": "assets-runtime/greek-city-h3-v1/background.l1.png",
+    "url": "./images/current-cities/town.greek.background.l1.webp"
+  },
+  "town.greek.background.l2": {
+    "source": "assets-runtime/greek-city-h3-v1/background.l2.png",
+    "url": "./images/current-cities/town.greek.background.l2.webp"
+  },
+  "town.greek.background.l3": {
+    "source": "assets-runtime/greek-city-h3-v1/background.l3.png",
+    "url": "./images/current-cities/town.greek.background.l3.webp"
+  },
+  "town.greek.background.l4": {
+    "source": "assets-runtime/greek-city-h3-v1/background.l4.png",
+    "url": "./images/current-cities/town.greek.background.l4.webp"
+  },
+  "town.greek.support.civic_hall.l1": {
+    "source": "assets-runtime/greek-city-h3-v1/buildings/civic_hall.l1.png",
+    "url": "./images/current-cities/town.greek.support.civic_hall.l1.webp"
+  },
+  "town.greek.support.civic_hall.l2": {
+    "source": "assets-runtime/greek-city-h3-v1/buildings/civic_hall.l2.png",
+    "url": "./images/current-cities/town.greek.support.civic_hall.l2.webp"
+  },
+  "town.greek.support.civic_hall.l3": {
+    "source": "assets-runtime/greek-city-h3-v1/buildings/civic_hall.l3.png",
+    "url": "./images/current-cities/town.greek.support.civic_hall.l3.webp"
+  },
+  "town.greek.support.civic_hall.l4": {
+    "source": "assets-runtime/greek-city-h3-v1/buildings/civic_hall.png",
+    "url": "./images/current-cities/town.greek.support.civic_hall.l4.webp"
+  },
+  "town.greek.support.pantheon_temple.l1": {
+    "source": "assets-runtime/greek-city-h3-v1/buildings/pantheon_temple.l1.png",
+    "url": "./images/current-cities/town.greek.support.pantheon_temple.l1.webp"
+  },
+  "town.greek.support.pantheon_temple.l2": {
+    "source": "assets-runtime/greek-city-h3-v1/buildings/pantheon_temple.png",
+    "url": "./images/current-cities/town.greek.support.pantheon_temple.l2.webp"
+  },
+  "town.greek.support.mage_guild.l1": {
+    "source": "assets-runtime/greek-city-h3-v1/buildings/mage_guild.l1.png",
+    "url": "./images/current-cities/town.greek.support.mage_guild.l1.webp"
+  },
+  "town.greek.support.mage_guild.l2": {
+    "source": "assets-runtime/greek-city-h3-v1/buildings/mage_guild.l2.png",
+    "url": "./images/current-cities/town.greek.support.mage_guild.l2.webp"
+  },
+  "town.greek.support.mage_guild.l3": {
+    "source": "assets-runtime/greek-city-h3-v1/buildings/mage_guild.png",
+    "url": "./images/current-cities/town.greek.support.mage_guild.l3.webp"
+  },
+  "town.greek.support.watchtower.l1": {
+    "source": "assets-runtime/greek-city-h3-v1/buildings/watchtower.png",
+    "url": "./images/current-cities/town.greek.support.watchtower.l1.webp"
+  },
+  "town.greek.support.artifact_merchant.l1": {
+    "source": "assets-runtime/greek-city-h3-v1/buildings/artifact_merchant.png",
+    "url": "./images/current-cities/town.greek.support.artifact_merchant.l1.webp"
+  },
+  "town.greek.support.tavern.l1": {
+    "source": "assets-runtime/greek-city-h3-v1/buildings/tavern.png",
+    "url": "./images/current-cities/town.greek.support.tavern.l1.webp"
+  },
+  "town.greek.support.marketplace.l1": {
+    "source": "assets-runtime/greek-city-h3-v1/buildings/marketplace.png",
+    "url": "./images/current-cities/town.greek.support.marketplace.l1.webp"
+  },
+  "town.greek.support.training_academy.l1": {
+    "source": "assets-runtime/greek-city-h3-v1/buildings/training_academy.png",
+    "url": "./images/current-cities/town.greek.support.training_academy.l1.webp"
+  },
+  "town.greek.support.workshop.l1": {
+    "source": "assets-runtime/greek-city-h3-v1/buildings/workshop.png",
+    "url": "./images/current-cities/town.greek.support.workshop.l1.webp"
+  },
+  "town.greek.support.resource_depot.l1": {
+    "source": "assets-runtime/greek-city-h3-v1/buildings/resource_depot.png",
+    "url": "./images/current-cities/town.greek.support.resource_depot.l1.webp"
+  },
+  "town.greek.support.fortifications.l1": {
+    "source": "assets-runtime/greek-city-h3-v1/buildings/fortifications.l1.png",
+    "url": "./images/current-cities/town.greek.support.fortifications.l1.webp"
+  },
+  "town.greek.support.fortifications.l2": {
+    "source": "assets-runtime/greek-city-h3-v1/buildings/fortifications.l2.png",
+    "url": "./images/current-cities/town.greek.support.fortifications.l2.webp"
+  },
+  "town.greek.support.fortifications.l3": {
+    "source": "assets-runtime/greek-city-h3-v1/buildings/fortifications.png",
+    "url": "./images/current-cities/town.greek.support.fortifications.l3.webp"
+  },
+  "town.greek.dwelling.tier1.base": {
+    "source": "assets-runtime/greek-city-h3-v1/buildings/dwelling_t1.l1.png",
+    "url": "./images/current-cities/town.greek.dwelling.tier1.base.webp"
+  },
+  "town.greek.dwelling.tier1.upgraded": {
+    "source": "assets-runtime/greek-city-h3-v1/buildings/dwelling_t1.png",
+    "url": "./images/current-cities/town.greek.dwelling.tier1.upgraded.webp"
+  },
+  "town.greek.dwelling.tier2.base": {
+    "source": "assets-runtime/greek-city-h3-v1/buildings/dwelling_t2.l1.png",
+    "url": "./images/current-cities/town.greek.dwelling.tier2.base.webp"
+  },
+  "town.greek.dwelling.tier2.upgraded": {
+    "source": "assets-runtime/greek-city-h3-v1/buildings/dwelling_t2.png",
+    "url": "./images/current-cities/town.greek.dwelling.tier2.upgraded.webp"
+  },
+  "town.greek.dwelling.tier3.base": {
+    "source": "assets-runtime/greek-city-h3-v1/buildings/dwelling_t3.l1.png",
+    "url": "./images/current-cities/town.greek.dwelling.tier3.base.webp"
+  },
+  "town.greek.dwelling.tier3.upgraded": {
+    "source": "assets-runtime/greek-city-h3-v1/buildings/dwelling_t3.png",
+    "url": "./images/current-cities/town.greek.dwelling.tier3.upgraded.webp"
+  },
+  "town.greek.dwelling.tier4.base": {
+    "source": "assets-runtime/greek-city-h3-v1/buildings/dwelling_t4.l1.png",
+    "url": "./images/current-cities/town.greek.dwelling.tier4.base.webp"
+  },
+  "town.greek.dwelling.tier4.upgraded": {
+    "source": "assets-runtime/greek-city-h3-v1/buildings/dwelling_t4.png",
+    "url": "./images/current-cities/town.greek.dwelling.tier4.upgraded.webp"
+  },
+  "town.greek.dwelling.tier5.base": {
+    "source": "assets-runtime/greek-city-h3-v1/buildings/dwelling_t5.l1.png",
+    "url": "./images/current-cities/town.greek.dwelling.tier5.base.webp"
+  },
+  "town.greek.dwelling.tier5.upgraded": {
+    "source": "assets-runtime/greek-city-h3-v1/buildings/dwelling_t5.png",
+    "url": "./images/current-cities/town.greek.dwelling.tier5.upgraded.webp"
+  },
+  "town.greek.dwelling.tier6.base": {
+    "source": "assets-runtime/greek-city-h3-v1/buildings/dwelling_t6.l1.png",
+    "url": "./images/current-cities/town.greek.dwelling.tier6.base.webp"
+  },
+  "town.greek.dwelling.tier6.upgraded": {
+    "source": "assets-runtime/greek-city-h3-v1/buildings/dwelling_t6.png",
+    "url": "./images/current-cities/town.greek.dwelling.tier6.upgraded.webp"
+  },
+  "town.greek.dwelling.tier7.base": {
+    "source": "assets-runtime/greek-city-h3-v1/buildings/dwelling_t7.l1.png",
+    "url": "./images/current-cities/town.greek.dwelling.tier7.base.webp"
+  },
+  "town.greek.dwelling.tier7.upgraded": {
+    "source": "assets-runtime/greek-city-h3-v1/buildings/dwelling_t7.png",
+    "url": "./images/current-cities/town.greek.dwelling.tier7.upgraded.webp"
+  },
+  "town.norse.background.l3": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/norse/background.l3.png",
+    "url": "./images/current-cities/town.norse.background.l3.webp"
+  },
+  "town.norse.background.l1": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/norse/background.l1.png",
+    "url": "./images/current-cities/town.norse.background.l1.webp"
+  },
+  "town.norse.background.l2": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/norse/background.l2.png",
+    "url": "./images/current-cities/town.norse.background.l2.webp"
+  },
+  "town.norse.background.l4": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/norse/background.l4.png",
+    "url": "./images/current-cities/town.norse.background.l4.webp"
+  },
+  "town.norse.support.civic_hall.l1": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/norse/buildings/civic_hall.l1.png",
+    "url": "./images/current-cities/town.norse.support.civic_hall.l1.webp"
+  },
+  "town.norse.support.civic_hall.l2": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/norse/buildings/civic_hall.l2.png",
+    "url": "./images/current-cities/town.norse.support.civic_hall.l2.webp"
+  },
+  "town.norse.support.civic_hall.l3": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/norse/buildings/civic_hall.l3.png",
+    "url": "./images/current-cities/town.norse.support.civic_hall.l3.webp"
+  },
+  "town.norse.support.civic_hall.l4": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/norse/buildings/civic_hall.l4.png",
+    "url": "./images/current-cities/town.norse.support.civic_hall.l4.webp"
+  },
+  "town.norse.support.pantheon_temple.l1": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/norse/buildings/pantheon_temple.l1.png",
+    "url": "./images/current-cities/town.norse.support.pantheon_temple.l1.webp"
+  },
+  "town.norse.support.pantheon_temple.l2": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/norse/buildings/pantheon_temple.l2.png",
+    "url": "./images/current-cities/town.norse.support.pantheon_temple.l2.webp"
+  },
+  "town.norse.support.mage_guild.l1": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/norse/buildings/mage_guild.l1.png",
+    "url": "./images/current-cities/town.norse.support.mage_guild.l1.webp"
+  },
+  "town.norse.support.mage_guild.l2": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/norse/buildings/mage_guild.l2.png",
+    "url": "./images/current-cities/town.norse.support.mage_guild.l2.webp"
+  },
+  "town.norse.support.mage_guild.l3": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/norse/buildings/mage_guild.l3.png",
+    "url": "./images/current-cities/town.norse.support.mage_guild.l3.webp"
+  },
+  "town.norse.support.watchtower.l1": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/norse/buildings/watchtower.l1.png",
+    "url": "./images/current-cities/town.norse.support.watchtower.l1.webp"
+  },
+  "town.norse.support.artifact_merchant.l1": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/norse/buildings/artifact_merchant.l1.png",
+    "url": "./images/current-cities/town.norse.support.artifact_merchant.l1.webp"
+  },
+  "town.norse.support.tavern.l1": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/norse/buildings/tavern.l1.png",
+    "url": "./images/current-cities/town.norse.support.tavern.l1.webp"
+  },
+  "town.norse.support.marketplace.l1": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/norse/buildings/marketplace.l1.png",
+    "url": "./images/current-cities/town.norse.support.marketplace.l1.webp"
+  },
+  "town.norse.support.training_academy.l1": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/norse/buildings/training_academy.l1.png",
+    "url": "./images/current-cities/town.norse.support.training_academy.l1.webp"
+  },
+  "town.norse.support.workshop.l1": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/norse/buildings/workshop.l1.png",
+    "url": "./images/current-cities/town.norse.support.workshop.l1.webp"
+  },
+  "town.norse.support.resource_depot.l1": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/norse/buildings/resource_depot.l1.png",
+    "url": "./images/current-cities/town.norse.support.resource_depot.l1.webp"
+  },
+  "town.norse.support.fortifications.l1": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/norse/buildings/fortifications.l1.png",
+    "url": "./images/current-cities/town.norse.support.fortifications.l1.webp"
+  },
+  "town.norse.support.fortifications.l2": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/norse/buildings/fortifications.l2.png",
+    "url": "./images/current-cities/town.norse.support.fortifications.l2.webp"
+  },
+  "town.norse.support.fortifications.l3": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/norse/buildings/fortifications.l3.png",
+    "url": "./images/current-cities/town.norse.support.fortifications.l3.webp"
+  },
+  "town.norse.dwelling.tier1.base": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/norse/buildings/dwelling_t1.l1.png",
+    "url": "./images/current-cities/town.norse.dwelling.tier1.base.webp"
+  },
+  "town.norse.dwelling.tier1.upgraded": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/norse/buildings/dwelling_t1.l2.png",
+    "url": "./images/current-cities/town.norse.dwelling.tier1.upgraded.webp"
+  },
+  "town.norse.dwelling.tier2.base": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/norse/buildings/dwelling_t2.l1.png",
+    "url": "./images/current-cities/town.norse.dwelling.tier2.base.webp"
+  },
+  "town.norse.dwelling.tier2.upgraded": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/norse/buildings/dwelling_t2.l2.png",
+    "url": "./images/current-cities/town.norse.dwelling.tier2.upgraded.webp"
+  },
+  "town.norse.dwelling.tier3.base": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/norse/buildings/dwelling_t3.l1.png",
+    "url": "./images/current-cities/town.norse.dwelling.tier3.base.webp"
+  },
+  "town.norse.dwelling.tier3.upgraded": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/norse/buildings/dwelling_t3.l2.png",
+    "url": "./images/current-cities/town.norse.dwelling.tier3.upgraded.webp"
+  },
+  "town.norse.dwelling.tier4.base": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/norse/buildings/dwelling_t4.l1.png",
+    "url": "./images/current-cities/town.norse.dwelling.tier4.base.webp"
+  },
+  "town.norse.dwelling.tier4.upgraded": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/norse/buildings/dwelling_t4.l2.png",
+    "url": "./images/current-cities/town.norse.dwelling.tier4.upgraded.webp"
+  },
+  "town.norse.dwelling.tier5.base": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/norse/buildings/dwelling_t5.l1.png",
+    "url": "./images/current-cities/town.norse.dwelling.tier5.base.webp"
+  },
+  "town.norse.dwelling.tier5.upgraded": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/norse/buildings/dwelling_t5.l2.png",
+    "url": "./images/current-cities/town.norse.dwelling.tier5.upgraded.webp"
+  },
+  "town.norse.dwelling.tier6.base": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/norse/buildings/dwelling_t6.l1.png",
+    "url": "./images/current-cities/town.norse.dwelling.tier6.base.webp"
+  },
+  "town.norse.dwelling.tier6.upgraded": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/norse/buildings/dwelling_t6.l2.png",
+    "url": "./images/current-cities/town.norse.dwelling.tier6.upgraded.webp"
+  },
+  "town.norse.dwelling.tier7.base": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/norse/buildings/dwelling_t7.l1.png",
+    "url": "./images/current-cities/town.norse.dwelling.tier7.base.webp"
+  },
+  "town.norse.dwelling.tier7.upgraded": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/norse/buildings/dwelling_t7.l2.png",
+    "url": "./images/current-cities/town.norse.dwelling.tier7.upgraded.webp"
+  },
+  "town.egyptian.background.l1": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/egyptian/background.l1.png",
+    "url": "./images/current-cities/town.egyptian.background.l1.webp"
+  },
+  "town.egyptian.background.l2": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/egyptian/background.l2.png",
+    "url": "./images/current-cities/town.egyptian.background.l2.webp"
+  },
+  "town.egyptian.background.l3": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/egyptian/background.l3.png",
+    "url": "./images/current-cities/town.egyptian.background.l3.webp"
+  },
+  "town.egyptian.background.l4": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/egyptian/background.l4.png",
+    "url": "./images/current-cities/town.egyptian.background.l4.webp"
+  },
+  "town.egyptian.support.civic_hall.l1": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/egyptian/buildings/civic_hall.l1.png",
+    "url": "./images/current-cities/town.egyptian.support.civic_hall.l1.webp"
+  },
+  "town.egyptian.support.civic_hall.l2": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/egyptian/buildings/civic_hall.l2.png",
+    "url": "./images/current-cities/town.egyptian.support.civic_hall.l2.webp"
+  },
+  "town.egyptian.support.civic_hall.l3": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/egyptian/buildings/civic_hall.l3.png",
+    "url": "./images/current-cities/town.egyptian.support.civic_hall.l3.webp"
+  },
+  "town.egyptian.support.civic_hall.l4": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/egyptian/buildings/civic_hall.l4.png",
+    "url": "./images/current-cities/town.egyptian.support.civic_hall.l4.webp"
+  },
+  "town.egyptian.support.pantheon_temple.l1": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/egyptian/buildings/pantheon_temple.l1.png",
+    "url": "./images/current-cities/town.egyptian.support.pantheon_temple.l1.webp"
+  },
+  "town.egyptian.support.pantheon_temple.l2": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/egyptian/buildings/pantheon_temple.l2.png",
+    "url": "./images/current-cities/town.egyptian.support.pantheon_temple.l2.webp"
+  },
+  "town.egyptian.support.mage_guild.l1": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/egyptian/buildings/mage_guild.l1.png",
+    "url": "./images/current-cities/town.egyptian.support.mage_guild.l1.webp"
+  },
+  "town.egyptian.support.mage_guild.l2": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/egyptian/buildings/mage_guild.l2.png",
+    "url": "./images/current-cities/town.egyptian.support.mage_guild.l2.webp"
+  },
+  "town.egyptian.support.mage_guild.l3": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/egyptian/buildings/mage_guild.l3.png",
+    "url": "./images/current-cities/town.egyptian.support.mage_guild.l3.webp"
+  },
+  "town.egyptian.support.watchtower.l1": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/egyptian/buildings/watchtower.l1.png",
+    "url": "./images/current-cities/town.egyptian.support.watchtower.l1.webp"
+  },
+  "town.egyptian.support.artifact_merchant.l1": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/egyptian/buildings/artifact_merchant.l1.png",
+    "url": "./images/current-cities/town.egyptian.support.artifact_merchant.l1.webp"
+  },
+  "town.egyptian.support.tavern.l1": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/egyptian/buildings/tavern.l1.png",
+    "url": "./images/current-cities/town.egyptian.support.tavern.l1.webp"
+  },
+  "town.egyptian.support.marketplace.l1": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/egyptian/buildings/marketplace.l1.png",
+    "url": "./images/current-cities/town.egyptian.support.marketplace.l1.webp"
+  },
+  "town.egyptian.support.training_academy.l1": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/egyptian/buildings/training_academy.l1.png",
+    "url": "./images/current-cities/town.egyptian.support.training_academy.l1.webp"
+  },
+  "town.egyptian.support.workshop.l1": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/egyptian/buildings/workshop.l1.png",
+    "url": "./images/current-cities/town.egyptian.support.workshop.l1.webp"
+  },
+  "town.egyptian.support.resource_depot.l1": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/egyptian/buildings/resource_depot.l1.png",
+    "url": "./images/current-cities/town.egyptian.support.resource_depot.l1.webp"
+  },
+  "town.egyptian.support.fortifications.l1": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/egyptian/buildings/fortifications.l1.png",
+    "url": "./images/current-cities/town.egyptian.support.fortifications.l1.webp"
+  },
+  "town.egyptian.support.fortifications.l2": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/egyptian/buildings/fortifications.l2.png",
+    "url": "./images/current-cities/town.egyptian.support.fortifications.l2.webp"
+  },
+  "town.egyptian.support.fortifications.l3": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/egyptian/buildings/fortifications.l3.png",
+    "url": "./images/current-cities/town.egyptian.support.fortifications.l3.webp"
+  },
+  "town.egyptian.dwelling.tier1.base": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/egyptian/buildings/dwelling_t1.l1.png",
+    "url": "./images/current-cities/town.egyptian.dwelling.tier1.base.webp"
+  },
+  "town.egyptian.dwelling.tier1.upgraded": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/egyptian/buildings/dwelling_t1.l2.png",
+    "url": "./images/current-cities/town.egyptian.dwelling.tier1.upgraded.webp"
+  },
+  "town.egyptian.dwelling.tier2.base": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/egyptian/buildings/dwelling_t2.l1.png",
+    "url": "./images/current-cities/town.egyptian.dwelling.tier2.base.webp"
+  },
+  "town.egyptian.dwelling.tier2.upgraded": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/egyptian/buildings/dwelling_t2.l2.png",
+    "url": "./images/current-cities/town.egyptian.dwelling.tier2.upgraded.webp"
+  },
+  "town.egyptian.dwelling.tier3.base": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/egyptian/buildings/dwelling_t3.l1.png",
+    "url": "./images/current-cities/town.egyptian.dwelling.tier3.base.webp"
+  },
+  "town.egyptian.dwelling.tier3.upgraded": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/egyptian/buildings/dwelling_t3.l2.png",
+    "url": "./images/current-cities/town.egyptian.dwelling.tier3.upgraded.webp"
+  },
+  "town.egyptian.dwelling.tier4.base": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/egyptian/buildings/dwelling_t4.l1.png",
+    "url": "./images/current-cities/town.egyptian.dwelling.tier4.base.webp"
+  },
+  "town.egyptian.dwelling.tier4.upgraded": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/egyptian/buildings/dwelling_t4.l2.png",
+    "url": "./images/current-cities/town.egyptian.dwelling.tier4.upgraded.webp"
+  },
+  "town.egyptian.dwelling.tier5.base": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/egyptian/buildings/dwelling_t5.l1.png",
+    "url": "./images/current-cities/town.egyptian.dwelling.tier5.base.webp"
+  },
+  "town.egyptian.dwelling.tier5.upgraded": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/egyptian/buildings/dwelling_t5.l2.png",
+    "url": "./images/current-cities/town.egyptian.dwelling.tier5.upgraded.webp"
+  },
+  "town.egyptian.dwelling.tier6.base": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/egyptian/buildings/dwelling_t6.l1.png",
+    "url": "./images/current-cities/town.egyptian.dwelling.tier6.base.webp"
+  },
+  "town.egyptian.dwelling.tier6.upgraded": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/egyptian/buildings/dwelling_t6.l2.png",
+    "url": "./images/current-cities/town.egyptian.dwelling.tier6.upgraded.webp"
+  },
+  "town.egyptian.dwelling.tier7.base": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/egyptian/buildings/dwelling_t7.l1.png",
+    "url": "./images/current-cities/town.egyptian.dwelling.tier7.base.webp"
+  },
+  "town.egyptian.dwelling.tier7.upgraded": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/egyptian/buildings/dwelling_t7.l2.png",
+    "url": "./images/current-cities/town.egyptian.dwelling.tier7.upgraded.webp"
+  },
+  "town.japanese.background.l3": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/japanese/background.l3.png",
+    "url": "./images/current-cities/town.japanese.background.l3.webp"
+  },
+  "town.japanese.background.l2": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/japanese/background.l2.png",
+    "url": "./images/current-cities/town.japanese.background.l2.webp"
+  },
+  "town.japanese.background.l4": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/japanese/background.l4.png",
+    "url": "./images/current-cities/town.japanese.background.l4.webp"
+  },
+  "town.japanese.background.l1": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/japanese/background.l1.png",
+    "url": "./images/current-cities/town.japanese.background.l1.webp"
+  },
+  "town.japanese.support.civic_hall.l1": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/japanese/buildings/civic_hall.l1.png",
+    "url": "./images/current-cities/town.japanese.support.civic_hall.l1.webp"
+  },
+  "town.japanese.support.civic_hall.l2": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/japanese/buildings/civic_hall.l2.png",
+    "url": "./images/current-cities/town.japanese.support.civic_hall.l2.webp"
+  },
+  "town.japanese.support.civic_hall.l3": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/japanese/buildings/civic_hall.l3.png",
+    "url": "./images/current-cities/town.japanese.support.civic_hall.l3.webp"
+  },
+  "town.japanese.support.civic_hall.l4": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/japanese/buildings/civic_hall.l4.png",
+    "url": "./images/current-cities/town.japanese.support.civic_hall.l4.webp"
+  },
+  "town.japanese.support.pantheon_temple.l1": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/japanese/buildings/pantheon_temple.l1.png",
+    "url": "./images/current-cities/town.japanese.support.pantheon_temple.l1.webp"
+  },
+  "town.japanese.support.pantheon_temple.l2": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/japanese/buildings/pantheon_temple.l2.png",
+    "url": "./images/current-cities/town.japanese.support.pantheon_temple.l2.webp"
+  },
+  "town.japanese.support.mage_guild.l1": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/japanese/buildings/mage_guild.l1.png",
+    "url": "./images/current-cities/town.japanese.support.mage_guild.l1.webp"
+  },
+  "town.japanese.support.mage_guild.l2": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/japanese/buildings/mage_guild.l2.png",
+    "url": "./images/current-cities/town.japanese.support.mage_guild.l2.webp"
+  },
+  "town.japanese.support.mage_guild.l3": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/japanese/buildings/mage_guild.l3.png",
+    "url": "./images/current-cities/town.japanese.support.mage_guild.l3.webp"
+  },
+  "town.japanese.support.watchtower.l1": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/japanese/buildings/watchtower.l1.png",
+    "url": "./images/current-cities/town.japanese.support.watchtower.l1.webp"
+  },
+  "town.japanese.support.artifact_merchant.l1": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/japanese/buildings/artifact_merchant.l1.png",
+    "url": "./images/current-cities/town.japanese.support.artifact_merchant.l1.webp"
+  },
+  "town.japanese.support.tavern.l1": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/japanese/buildings/tavern.l1.png",
+    "url": "./images/current-cities/town.japanese.support.tavern.l1.webp"
+  },
+  "town.japanese.support.marketplace.l1": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/japanese/buildings/marketplace.l1.png",
+    "url": "./images/current-cities/town.japanese.support.marketplace.l1.webp"
+  },
+  "town.japanese.support.training_academy.l1": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/japanese/buildings/training_academy.l1.png",
+    "url": "./images/current-cities/town.japanese.support.training_academy.l1.webp"
+  },
+  "town.japanese.support.workshop.l1": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/japanese/buildings/workshop.l1.png",
+    "url": "./images/current-cities/town.japanese.support.workshop.l1.webp"
+  },
+  "town.japanese.support.resource_depot.l1": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/japanese/buildings/resource_depot.l1.png",
+    "url": "./images/current-cities/town.japanese.support.resource_depot.l1.webp"
+  },
+  "town.japanese.support.fortifications.l1": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/japanese/buildings/fortifications.l1.png",
+    "url": "./images/current-cities/town.japanese.support.fortifications.l1.webp"
+  },
+  "town.japanese.support.fortifications.l2": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/japanese/buildings/fortifications.l2.png",
+    "url": "./images/current-cities/town.japanese.support.fortifications.l2.webp"
+  },
+  "town.japanese.support.fortifications.l3": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/japanese/buildings/fortifications.l3.png",
+    "url": "./images/current-cities/town.japanese.support.fortifications.l3.webp"
+  },
+  "town.japanese.dwelling.tier1.base": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/japanese/buildings/dwelling_t1.l1.png",
+    "url": "./images/current-cities/town.japanese.dwelling.tier1.base.webp"
+  },
+  "town.japanese.dwelling.tier1.upgraded": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/japanese/buildings/dwelling_t1.l2.png",
+    "url": "./images/current-cities/town.japanese.dwelling.tier1.upgraded.webp"
+  },
+  "town.japanese.dwelling.tier2.base": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/japanese/buildings/dwelling_t2.l1.png",
+    "url": "./images/current-cities/town.japanese.dwelling.tier2.base.webp"
+  },
+  "town.japanese.dwelling.tier2.upgraded": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/japanese/buildings/dwelling_t2.l2.png",
+    "url": "./images/current-cities/town.japanese.dwelling.tier2.upgraded.webp"
+  },
+  "town.japanese.dwelling.tier3.base": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/japanese/buildings/dwelling_t3.l1.png",
+    "url": "./images/current-cities/town.japanese.dwelling.tier3.base.webp"
+  },
+  "town.japanese.dwelling.tier3.upgraded": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/japanese/buildings/dwelling_t3.l2.png",
+    "url": "./images/current-cities/town.japanese.dwelling.tier3.upgraded.webp"
+  },
+  "town.japanese.dwelling.tier4.base": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/japanese/buildings/dwelling_t4.l1.png",
+    "url": "./images/current-cities/town.japanese.dwelling.tier4.base.webp"
+  },
+  "town.japanese.dwelling.tier4.upgraded": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/japanese/buildings/dwelling_t4.l2.png",
+    "url": "./images/current-cities/town.japanese.dwelling.tier4.upgraded.webp"
+  },
+  "town.japanese.dwelling.tier5.base": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/japanese/buildings/dwelling_t5.l1.png",
+    "url": "./images/current-cities/town.japanese.dwelling.tier5.base.webp"
+  },
+  "town.japanese.dwelling.tier5.upgraded": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/japanese/buildings/dwelling_t5.l2.png",
+    "url": "./images/current-cities/town.japanese.dwelling.tier5.upgraded.webp"
+  },
+  "town.japanese.dwelling.tier6.base": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/japanese/buildings/dwelling_t6.l1.png",
+    "url": "./images/current-cities/town.japanese.dwelling.tier6.base.webp"
+  },
+  "town.japanese.dwelling.tier6.upgraded": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/japanese/buildings/dwelling_t6.l2.png",
+    "url": "./images/current-cities/town.japanese.dwelling.tier6.upgraded.webp"
+  },
+  "town.japanese.dwelling.tier7.base": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/japanese/buildings/dwelling_t7.l1.png",
+    "url": "./images/current-cities/town.japanese.dwelling.tier7.base.webp"
+  },
+  "town.japanese.dwelling.tier7.upgraded": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/japanese/buildings/dwelling_t7.l2.png",
+    "url": "./images/current-cities/town.japanese.dwelling.tier7.upgraded.webp"
+  },
+  "town.celtic.background.l1": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/celtic/background.l1.png",
+    "url": "./images/current-cities/town.celtic.background.l1.webp"
+  },
+  "town.celtic.background.l3": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/celtic/background.l3.png",
+    "url": "./images/current-cities/town.celtic.background.l3.webp"
+  },
+  "town.celtic.background.l2": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/celtic/background.l2.png",
+    "url": "./images/current-cities/town.celtic.background.l2.webp"
+  },
+  "town.celtic.background.l4": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/celtic/background.l4.png",
+    "url": "./images/current-cities/town.celtic.background.l4.webp"
+  },
+  "town.celtic.support.civic_hall.l1": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/celtic/buildings/civic_hall.l1.png",
+    "url": "./images/current-cities/town.celtic.support.civic_hall.l1.webp"
+  },
+  "town.celtic.support.civic_hall.l2": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/celtic/buildings/civic_hall.l2.png",
+    "url": "./images/current-cities/town.celtic.support.civic_hall.l2.webp"
+  },
+  "town.celtic.support.civic_hall.l3": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/celtic/buildings/civic_hall.l3.png",
+    "url": "./images/current-cities/town.celtic.support.civic_hall.l3.webp"
+  },
+  "town.celtic.support.civic_hall.l4": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/celtic/buildings/civic_hall.l4.png",
+    "url": "./images/current-cities/town.celtic.support.civic_hall.l4.webp"
+  },
+  "town.celtic.support.pantheon_temple.l1": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/celtic/buildings/pantheon_temple.l1.png",
+    "url": "./images/current-cities/town.celtic.support.pantheon_temple.l1.webp"
+  },
+  "town.celtic.support.pantheon_temple.l2": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/celtic/buildings/pantheon_temple.l2.png",
+    "url": "./images/current-cities/town.celtic.support.pantheon_temple.l2.webp"
+  },
+  "town.celtic.support.mage_guild.l1": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/celtic/buildings/mage_guild.l1.png",
+    "url": "./images/current-cities/town.celtic.support.mage_guild.l1.webp"
+  },
+  "town.celtic.support.mage_guild.l2": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/celtic/buildings/mage_guild.l2.png",
+    "url": "./images/current-cities/town.celtic.support.mage_guild.l2.webp"
+  },
+  "town.celtic.support.mage_guild.l3": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/celtic/buildings/mage_guild.l3.png",
+    "url": "./images/current-cities/town.celtic.support.mage_guild.l3.webp"
+  },
+  "town.celtic.support.watchtower.l1": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/celtic/buildings/watchtower.l1.png",
+    "url": "./images/current-cities/town.celtic.support.watchtower.l1.webp"
+  },
+  "town.celtic.support.artifact_merchant.l1": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/celtic/buildings/artifact_merchant.l1.png",
+    "url": "./images/current-cities/town.celtic.support.artifact_merchant.l1.webp"
+  },
+  "town.celtic.support.tavern.l1": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/celtic/buildings/tavern.l1.png",
+    "url": "./images/current-cities/town.celtic.support.tavern.l1.webp"
+  },
+  "town.celtic.support.marketplace.l1": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/celtic/buildings/marketplace.l1.png",
+    "url": "./images/current-cities/town.celtic.support.marketplace.l1.webp"
+  },
+  "town.celtic.support.training_academy.l1": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/celtic/buildings/training_academy.l1.png",
+    "url": "./images/current-cities/town.celtic.support.training_academy.l1.webp"
+  },
+  "town.celtic.support.workshop.l1": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/celtic/buildings/workshop.l1.png",
+    "url": "./images/current-cities/town.celtic.support.workshop.l1.webp"
+  },
+  "town.celtic.support.resource_depot.l1": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/celtic/buildings/resource_depot.l1.png",
+    "url": "./images/current-cities/town.celtic.support.resource_depot.l1.webp"
+  },
+  "town.celtic.support.fortifications.l1": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/celtic/buildings/fortifications.l1.png",
+    "url": "./images/current-cities/town.celtic.support.fortifications.l1.webp"
+  },
+  "town.celtic.support.fortifications.l2": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/celtic/buildings/fortifications.l2.png",
+    "url": "./images/current-cities/town.celtic.support.fortifications.l2.webp"
+  },
+  "town.celtic.support.fortifications.l3": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/celtic/buildings/fortifications.l3.png",
+    "url": "./images/current-cities/town.celtic.support.fortifications.l3.webp"
+  },
+  "town.celtic.dwelling.tier1.base": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/celtic/buildings/dwelling_t1.l1.png",
+    "url": "./images/current-cities/town.celtic.dwelling.tier1.base.webp"
+  },
+  "town.celtic.dwelling.tier1.upgraded": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/celtic/buildings/dwelling_t1.l2.png",
+    "url": "./images/current-cities/town.celtic.dwelling.tier1.upgraded.webp"
+  },
+  "town.celtic.dwelling.tier2.base": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/celtic/buildings/dwelling_t2.l1.png",
+    "url": "./images/current-cities/town.celtic.dwelling.tier2.base.webp"
+  },
+  "town.celtic.dwelling.tier2.upgraded": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/celtic/buildings/dwelling_t2.l2.png",
+    "url": "./images/current-cities/town.celtic.dwelling.tier2.upgraded.webp"
+  },
+  "town.celtic.dwelling.tier3.base": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/celtic/buildings/dwelling_t3.l1.png",
+    "url": "./images/current-cities/town.celtic.dwelling.tier3.base.webp"
+  },
+  "town.celtic.dwelling.tier3.upgraded": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/celtic/buildings/dwelling_t3.l2.png",
+    "url": "./images/current-cities/town.celtic.dwelling.tier3.upgraded.webp"
+  },
+  "town.celtic.dwelling.tier4.base": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/celtic/buildings/dwelling_t4.l1.png",
+    "url": "./images/current-cities/town.celtic.dwelling.tier4.base.webp"
+  },
+  "town.celtic.dwelling.tier4.upgraded": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/celtic/buildings/dwelling_t4.l2.png",
+    "url": "./images/current-cities/town.celtic.dwelling.tier4.upgraded.webp"
+  },
+  "town.celtic.dwelling.tier5.base": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/celtic/buildings/dwelling_t5.l1.png",
+    "url": "./images/current-cities/town.celtic.dwelling.tier5.base.webp"
+  },
+  "town.celtic.dwelling.tier5.upgraded": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/celtic/buildings/dwelling_t5.l2.png",
+    "url": "./images/current-cities/town.celtic.dwelling.tier5.upgraded.webp"
+  },
+  "town.celtic.dwelling.tier6.base": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/celtic/buildings/dwelling_t6.l1.png",
+    "url": "./images/current-cities/town.celtic.dwelling.tier6.base.webp"
+  },
+  "town.celtic.dwelling.tier6.upgraded": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/celtic/buildings/dwelling_t6.l2.png",
+    "url": "./images/current-cities/town.celtic.dwelling.tier6.upgraded.webp"
+  },
+  "town.celtic.dwelling.tier7.base": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/celtic/buildings/dwelling_t7.l1.png",
+    "url": "./images/current-cities/town.celtic.dwelling.tier7.base.webp"
+  },
+  "town.celtic.dwelling.tier7.upgraded": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/celtic/buildings/dwelling_t7.l2.png",
+    "url": "./images/current-cities/town.celtic.dwelling.tier7.upgraded.webp"
+  },
+  "town.mesoamerican.background.l3": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/mesoamerican/background.l3.png",
+    "url": "./images/current-cities/town.mesoamerican.background.l3.webp"
+  },
+  "town.mesoamerican.background.l1": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/mesoamerican/background.l1.png",
+    "url": "./images/current-cities/town.mesoamerican.background.l1.webp"
+  },
+  "town.mesoamerican.background.l2": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/mesoamerican/background.l2.png",
+    "url": "./images/current-cities/town.mesoamerican.background.l2.webp"
+  },
+  "town.mesoamerican.background.l4": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/mesoamerican/background.l4.png",
+    "url": "./images/current-cities/town.mesoamerican.background.l4.webp"
+  },
+  "town.mesoamerican.support.civic_hall.l1": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/mesoamerican/buildings/civic_hall.l1.png",
+    "url": "./images/current-cities/town.mesoamerican.support.civic_hall.l1.webp"
+  },
+  "town.mesoamerican.support.civic_hall.l2": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/mesoamerican/buildings/civic_hall.l2.png",
+    "url": "./images/current-cities/town.mesoamerican.support.civic_hall.l2.webp"
+  },
+  "town.mesoamerican.support.civic_hall.l3": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/mesoamerican/buildings/civic_hall.l3.png",
+    "url": "./images/current-cities/town.mesoamerican.support.civic_hall.l3.webp"
+  },
+  "town.mesoamerican.support.civic_hall.l4": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/mesoamerican/buildings/civic_hall.l4.png",
+    "url": "./images/current-cities/town.mesoamerican.support.civic_hall.l4.webp"
+  },
+  "town.mesoamerican.support.pantheon_temple.l1": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/mesoamerican/buildings/pantheon_temple.l1.png",
+    "url": "./images/current-cities/town.mesoamerican.support.pantheon_temple.l1.webp"
+  },
+  "town.mesoamerican.support.pantheon_temple.l2": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/mesoamerican/buildings/pantheon_temple.l2.png",
+    "url": "./images/current-cities/town.mesoamerican.support.pantheon_temple.l2.webp"
+  },
+  "town.mesoamerican.support.mage_guild.l1": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/mesoamerican/buildings/mage_guild.l1.png",
+    "url": "./images/current-cities/town.mesoamerican.support.mage_guild.l1.webp"
+  },
+  "town.mesoamerican.support.mage_guild.l2": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/mesoamerican/buildings/mage_guild.l2.png",
+    "url": "./images/current-cities/town.mesoamerican.support.mage_guild.l2.webp"
+  },
+  "town.mesoamerican.support.mage_guild.l3": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/mesoamerican/buildings/mage_guild.l3.png",
+    "url": "./images/current-cities/town.mesoamerican.support.mage_guild.l3.webp"
+  },
+  "town.mesoamerican.support.watchtower.l1": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/mesoamerican/buildings/watchtower.l1.png",
+    "url": "./images/current-cities/town.mesoamerican.support.watchtower.l1.webp"
+  },
+  "town.mesoamerican.support.artifact_merchant.l1": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/mesoamerican/buildings/artifact_merchant.l1.png",
+    "url": "./images/current-cities/town.mesoamerican.support.artifact_merchant.l1.webp"
+  },
+  "town.mesoamerican.support.tavern.l1": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/mesoamerican/buildings/tavern.l1.png",
+    "url": "./images/current-cities/town.mesoamerican.support.tavern.l1.webp"
+  },
+  "town.mesoamerican.support.marketplace.l1": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/mesoamerican/buildings/marketplace.l1.png",
+    "url": "./images/current-cities/town.mesoamerican.support.marketplace.l1.webp"
+  },
+  "town.mesoamerican.support.training_academy.l1": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/mesoamerican/buildings/training_academy.l1.png",
+    "url": "./images/current-cities/town.mesoamerican.support.training_academy.l1.webp"
+  },
+  "town.mesoamerican.support.workshop.l1": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/mesoamerican/buildings/workshop.l1.png",
+    "url": "./images/current-cities/town.mesoamerican.support.workshop.l1.webp"
+  },
+  "town.mesoamerican.support.resource_depot.l1": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/mesoamerican/buildings/resource_depot.l1.png",
+    "url": "./images/current-cities/town.mesoamerican.support.resource_depot.l1.webp"
+  },
+  "town.mesoamerican.support.fortifications.l1": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/mesoamerican/buildings/fortifications.l1.png",
+    "url": "./images/current-cities/town.mesoamerican.support.fortifications.l1.webp"
+  },
+  "town.mesoamerican.support.fortifications.l2": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/mesoamerican/buildings/fortifications.l2.png",
+    "url": "./images/current-cities/town.mesoamerican.support.fortifications.l2.webp"
+  },
+  "town.mesoamerican.support.fortifications.l3": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/mesoamerican/buildings/fortifications.l3.png",
+    "url": "./images/current-cities/town.mesoamerican.support.fortifications.l3.webp"
+  },
+  "town.mesoamerican.dwelling.tier1.base": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/mesoamerican/buildings/dwelling_t1.l1.png",
+    "url": "./images/current-cities/town.mesoamerican.dwelling.tier1.base.webp"
+  },
+  "town.mesoamerican.dwelling.tier1.upgraded": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/mesoamerican/buildings/dwelling_t1.l2.png",
+    "url": "./images/current-cities/town.mesoamerican.dwelling.tier1.upgraded.webp"
+  },
+  "town.mesoamerican.dwelling.tier2.base": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/mesoamerican/buildings/dwelling_t2.l1.png",
+    "url": "./images/current-cities/town.mesoamerican.dwelling.tier2.base.webp"
+  },
+  "town.mesoamerican.dwelling.tier2.upgraded": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/mesoamerican/buildings/dwelling_t2.l2.png",
+    "url": "./images/current-cities/town.mesoamerican.dwelling.tier2.upgraded.webp"
+  },
+  "town.mesoamerican.dwelling.tier3.base": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/mesoamerican/buildings/dwelling_t3.l1.png",
+    "url": "./images/current-cities/town.mesoamerican.dwelling.tier3.base.webp"
+  },
+  "town.mesoamerican.dwelling.tier3.upgraded": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/mesoamerican/buildings/dwelling_t3.l2.png",
+    "url": "./images/current-cities/town.mesoamerican.dwelling.tier3.upgraded.webp"
+  },
+  "town.mesoamerican.dwelling.tier4.base": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/mesoamerican/buildings/dwelling_t4.l1.png",
+    "url": "./images/current-cities/town.mesoamerican.dwelling.tier4.base.webp"
+  },
+  "town.mesoamerican.dwelling.tier4.upgraded": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/mesoamerican/buildings/dwelling_t4.l2.png",
+    "url": "./images/current-cities/town.mesoamerican.dwelling.tier4.upgraded.webp"
+  },
+  "town.mesoamerican.dwelling.tier5.base": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/mesoamerican/buildings/dwelling_t5.l1.png",
+    "url": "./images/current-cities/town.mesoamerican.dwelling.tier5.base.webp"
+  },
+  "town.mesoamerican.dwelling.tier5.upgraded": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/mesoamerican/buildings/dwelling_t5.l2.png",
+    "url": "./images/current-cities/town.mesoamerican.dwelling.tier5.upgraded.webp"
+  },
+  "town.mesoamerican.dwelling.tier6.base": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/mesoamerican/buildings/dwelling_t6.l1.png",
+    "url": "./images/current-cities/town.mesoamerican.dwelling.tier6.base.webp"
+  },
+  "town.mesoamerican.dwelling.tier6.upgraded": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/mesoamerican/buildings/dwelling_t6.l2.png",
+    "url": "./images/current-cities/town.mesoamerican.dwelling.tier6.upgraded.webp"
+  },
+  "town.mesoamerican.dwelling.tier7.base": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/mesoamerican/buildings/dwelling_t7.l1.png",
+    "url": "./images/current-cities/town.mesoamerican.dwelling.tier7.base.webp"
+  },
+  "town.mesoamerican.dwelling.tier7.upgraded": {
+    "source": "assets-runtime/pantheon-cities-h3-v1/mesoamerican/buildings/dwelling_t7.l2.png",
+    "url": "./images/current-cities/town.mesoamerican.dwelling.tier7.upgraded.webp"
+  }
+}

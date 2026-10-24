@@ -35,7 +35,10 @@
  }
  function choose(id){
   const selected=data.find(p=>p.id===id);if(!selected)return;current=selected;revision++;index=-1;hideTip();
-  stage.dataset.pantheon=id;flags.forEach(b=>b.setAttribute('aria-pressed',String(b.dataset.cityPantheon===id)));
+  stage.dataset.pantheon=id;
+  // Placements are authored in the game's scene coordinates; preserve that aspect ratio.
+  stage.style.aspectRatio=String(current.town.aspectRatio||1.5);
+  flags.forEach(b=>b.setAttribute('aria-pressed',String(b.dataset.cityPantheon===id)));
   const backgrounds=stage.querySelector('.city-backgrounds'),buildings=stage.querySelector('.city-buildings');backgrounds.replaceChildren();buildings.replaceChildren();
   current.town.backgrounds.forEach(src=>{const im=new Image();im.src=src;im.alt='';backgrounds.append(im);});
   for(const slot of current.town.slots){const n=document.createElement('button');n.type='button';n.className='city-building';n.dataset.slot=slot.id;const p=slot.placement;Object.assign(n.style,{left:`${p.x-p.width/2}%`,bottom:`${100-p.y}%`,width:`${p.width}%`,zIndex:String(p.layer)});n.addEventListener('pointerenter',()=>showTip(n));n.addEventListener('pointerleave',hideTip);n.addEventListener('focus',()=>showTip(n));n.addEventListener('blur',hideTip);n.addEventListener('click',()=>showTip(n));buildings.append(n);}

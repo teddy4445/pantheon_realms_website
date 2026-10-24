@@ -41,7 +41,7 @@
     const item = gallery[current];
     const img = dialog.querySelector('img');
     img.src = item.querySelector('img').src;
-    img.alt = item.querySelector('small').textContent + ' — actual development-build screenshot';
+    img.alt = item.querySelector('img').alt;
     const caption = dialog.querySelector('[aria-live]');
     caption.replaceChildren(document.createTextNode(item.querySelector('strong').textContent));
     const number = document.createElement('span');
@@ -88,7 +88,15 @@
   const heroDownload = $('.hero-actions .button');
   heroDownload.textContent = 'Download';
   for(const button of [download,heroDownload]) {
-   if(primary){button.href=primary.url;button.removeAttribute('aria-disabled');button.removeAttribute('role');button.removeAttribute('tabindex');button.setAttribute('aria-label','Download Pantheon Realms for '+primary.platform);if(primary.filename)button.download=primary.filename;}
+   if(primary){
+    button.href=primary.url;
+    button.removeAttribute('aria-disabled');button.removeAttribute('role');button.removeAttribute('tabindex');
+    button.setAttribute('aria-label','Download Pantheon Realms for '+primary.platform+' (opens download page)');
+    // Hosted file viewers must open normally: the download attribute is only for same-origin files.
+    button.removeAttribute('download');
+    if(new URL(primary.url,location.href).origin!==location.origin){button.target='_blank';button.rel='noopener noreferrer';}
+    else {button.removeAttribute('target');button.removeAttribute('rel');if(primary.filename)button.download=primary.filename;}
+   }
    else {
     button.removeAttribute('href');button.setAttribute('role','button');button.tabIndex=0;button.setAttribute('aria-disabled','true');button.setAttribute('aria-label','Download Pantheon Realms — link coming soon');
     const unavailable=e=>{e.preventDefault();$('#download-button-detail').textContent='Download link coming soon';$('#download-feedback').textContent='The download link has not been published yet.';};
@@ -97,7 +105,14 @@
    }
   }
   const note = $('.build-note');
-  note.replaceChildren(el('span', 'status-dot'), document.createTextNode('Windows x64 · Offline strategy · Six pantheons'));
+  note.replaceChildren(el('span', 'status-dot'), document.createTextNode(`Version ${config.version || '1.0.0'} · Windows x64 · Play offline`));
+  if(primary){
+    const size=Number.isFinite(primary.bytes)?`${Math.round(primary.bytes/1000000)} MB`:'Download';
+    $('#download-button-detail').textContent=`v${config.version} · Windows x64 · ${size}`;
+    $('#release-version').textContent=`Version ${config.version} · ${config.channel} · Built ${config.buildDate}`;
+    $('#release-file').textContent=primary.filename;
+    $('#release-checksum').textContent=primary.sha256;
+  }
   if (safeUrl(config.browserUrl)) { const link = el('a', 'text-link', 'Play in browser ↗'); link.href = config.browserUrl; card.append(link); }
   if (safeUrl(config.trailerUrl)) {
     const figure = el('figure', 'trailer'); const video = el('video');
